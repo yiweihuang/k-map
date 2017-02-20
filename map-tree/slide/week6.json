@@ -1,0 +1,403 @@
+{
+    "name": "week6",
+    "children": [
+        {
+            "name": "Outline  ",
+            "children": [
+                {
+                    "name": "sliding window protocol"
+                },
+                {
+                    "name": "sliding window protocol"
+                }
+            ]
+        },
+        {
+            "name": "Reliable Transmission  ",
+            "children": [
+                {
+                    "name": "ACK",
+                    "children": [
+                        {
+                            "name": "ACK,acknowledgement",
+                            "children": [
+                                {
+                                    "name": "timeouts"
+                                },
+                                {
+                                    "name": "timeouts"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ACK,acknowledgement"
+                },
+                {
+                    "name": "ACK,acknowledgement"
+                },
+                {
+                    "name": "reliable transmission"
+                },
+                {
+                    "name": "ACK,acknowledgement"
+                }
+            ]
+        },
+        {
+            "name": "Stop and Wait Protocol  ",
+            "children": [
+                {
+                    "name": "outstanding frame",
+                    "children": [
+                        {
+                            "name": "sequence number"
+                        },
+                        {
+                            "name": "sequence number",
+                            "children": [
+                                {
+                                    "name": "ACK,acknowledgement",
+                                    "children": [
+                                        {
+                                            "name": "ACK"
+                                        },
+                                        {
+                                            "name": "ACK"
+                                        },
+                                        {
+                                            "name": "ACK"
+                                        },
+                                        {
+                                            "name": "ACK"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "the receiver"
+                        },
+                        {
+                            "name": "ACK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sliding Window Protocol  ",
+            "children": [
+                {
+                    "name": "ACK,acknowledgement",
+                    "children": [
+                        {
+                            "name": "ACK,seqnumtoack,LAR",
+                            "children": [
+                                {
+                                    "name": "ACK"
+                                },
+                                {
+                                    "name": "ACK,seqnumtoack,sequence number",
+                                    "children": [
+                                        {
+                                            "name": "RWS,LFR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "LAF,LFR",
+                                    "children": [
+                                        {
+                                            "name": "ACK"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "LAF",
+                    "children": [
+                        {
+                            "name": "largest acceptable frame,LAF,LAR",
+                            "children": [
+                                {
+                                    "name": "largest acceptable frame,LAR"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "ACK,the receiver,receiver acknowledges",
+                            "children": [
+                                {
+                                    "name": "ACK",
+                                    "children": [
+                                        {
+                                            "name": "the receiver"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ACK",
+                    "children": [
+                        {
+                            "name": "last frame,LFR",
+                            "children": [
+                                {
+                                    "name": "last frame",
+                                    "children": [
+                                        {
+                                            "name": "ACK,acknowledgement"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ACK,receiver acknowledges",
+                    "children": [
+                        {
+                            "name": "LFR",
+                            "children": [
+                                {
+                                    "name": "last frame,LFS",
+                                    "children": [
+                                        {
+                                            "name": "ACK,seqnumtoack,LFR"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "the receiver",
+                            "children": [
+                                {
+                                    "name": "LAF",
+                                    "children": [
+                                        {
+                                            "name": "RWS,LAF,LFR"
+                                        },
+                                        {
+                                            "name": "ACK,acknowledgement,seqnumtoack"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Issues with Sliding Window Protocol  ",
+            "children": [
+                {
+                    "name": "sliding window protocol",
+                    "children": [
+                        {
+                            "name": "reliable transmission",
+                            "children": [
+                                {
+                                    "name": "sequence number,LAR",
+                                    "children": [
+                                        {
+                                            "name": "outstanding frame"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "sequence number"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SWS"
+                },
+                {
+                    "name": "SWS",
+                    "children": [
+                        {
+                            "name": "RWS",
+                            "children": [
+                                {
+                                    "name": "sequence number",
+                                    "children": [
+                                        {
+                                            "name": "outstanding frame"
+                                        },
+                                        {
+                                            "name": "sequence number",
+                                            "children": [
+                                                {
+                                                    "name": "maxseqnum,sequence number"
+                                                },
+                                                {
+                                                    "name": "RWS"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "maxseqnum,SWS",
+                    "children": [
+                        {
+                            "name": "sequence number"
+                        }
+                    ]
+                },
+                {
+                    "name": "ACK,acknowledgement"
+                },
+                {
+                    "name": "ACK,acknowledgement",
+                    "children": [
+                        {
+                            "name": "ACK"
+                        },
+                        {
+                            "name": "ACK"
+                        },
+                        {
+                            "name": "ACK,receiver acknowledges"
+                        },
+                        {
+                            "name": "timeouts"
+                        },
+                        {
+                            "name": "ACK",
+                            "children": [
+                                {
+                                    "name": "the receiver",
+                                    "children": [
+                                        {
+                                            "name": "RWS"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "ACK,acknowledgement",
+                                    "children": [
+                                        {
+                                            "name": "RWS"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "ACK,receiver acknowledges",
+                                    "children": [
+                                        {
+                                            "name": "ACK"
+                                        },
+                                        {
+                                            "name": "timeouts"
+                                        },
+                                        {
+                                            "name": "RWS,SWS"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ACK"
+                }
+            ]
+        },
+        {
+            "name": "  ",
+            "children": [
+                {
+                    "name": "sliding window protocol"
+                }
+            ]
+        },
+        {
+            "name": "Summary  ",
+            "children": [
+                {
+                    "name": "RWS,SWS"
+                },
+                {
+                    "name": "maxseqnum,RWS,SWS",
+                    "children": [
+                        {
+                            "name": "sequence number",
+                            "children": [
+                                {
+                                    "name": "outstanding frame"
+                                },
+                                {
+                                    "name": "outstanding frame",
+                                    "children": [
+                                        {
+                                            "name": "SWS"
+                                        },
+                                        {
+                                            "name": "ACK,acknowledgement,LAR"
+                                        },
+                                        {
+                                            "name": "LFS"
+                                        },
+                                        {
+                                            "name": "RWS,SWS"
+                                        },
+                                        {
+                                            "name": "LAF"
+                                        },
+                                        {
+                                            "name": "LFR"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "the receiver"
+                },
+                {
+                    "name": "ACK,acknowledgement",
+                    "children": [
+                        {
+                            "name": "ACK,acknowledgement"
+                        }
+                    ]
+                },
+                {
+                    "name": "sliding window protocol",
+                    "children": [
+                        {
+                            "name": "reliable transmission"
+                        },
+                        {
+                            "name": "RWS"
+                        }
+                    ]
+                },
+                {
+                    "name": "RWS,LAF,LFR"
+                }
+            ]
+        }
+    ]
+}
