@@ -1,0 +1,40 @@
+foundation	123.0
+data link	48.0
+network performance	27.0
+network connectivity	27.0
+network architecture	27.0
+application	27.0
+OSI	27.0
+description layer	22.5
+cost effective resource sharing	22.5
+HTTP	21.0
+資料	18.0
+transmission time	18.0
+session	18.0
+propagation time	18.0
+layer 如何將	18.0
+internet architecture	18.0
+delay X bandwidth	18.0
+TCP	17.0
+pipe	16.0
+x bit/second	15.0
+switched	15.0
+bit transmitted each bit	15.0
+multiplexing	14.0
+host	14.0
+送完	13.5
+COMPUTER NETWORKS AND THE INTERNET	370.881225168
+CHAPTER COMPUTER NETWORKS AND THE	370.881225168
+circuit switching	118.872187554
+twisted pair	72.0
+global transit	66.5684250303
+tollbooth	63.3985000288
+packet switching	60.0
+tier ISPs	59.436093777
+THROUGHPUT IN PACKET SWITCHED NETWORKS	57.0586500261
+LOSS AND THROUGHPUT IN PACKET	57.0586500261
+DELAY LOSS AND THROUGHPUT IN	57.0586500261
+AND THROUGHPUT IN PACKET SWITCHED	57.0586500261
+1.4 DELAY LOSS AND THROUGHPUT	57.0586500261
+circuit switched network	57.058650026
+average queuing delay	57.058650026

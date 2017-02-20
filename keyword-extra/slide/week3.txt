@@ -1,0 +1,25 @@
+wireless LAN	234.0
+RTS	129.0
+SIFS	123.0
+CTS	123.0
+PCF	114.0
+DCF	105.0
+coordination function	99.0
+IEEE 802.11 MAC architecture	97.5
+distribution system	76.5
+NAV	72.0
+DIFS	72.0
+contention	57.0
+shall	48.0
+PIFS	48.0
+node problem	45.0
+backoff	42.0
+DS	42.0
+訊框	36.0
+duration	36.0
+free	34.0
+CSMA/CA	32.0
+對方訊號但同時	30.0
+AP1	30.0
+station	27.0
+scanning	27.0

@@ -1,0 +1,25 @@
+collision	92.0
+CSMA/CD	84.0
+adaptor	60.0
+ethernet MAC protocol CSMA/	45.0
+ethernet frame format	42.0
+最長公尺	36.0
+802.3 ethernet standard	36.0
+51.2	30.0
+repeater	24.0
+idle	24.0
+frame addressed	22.5
+ethernet topology	22.5
+host	22.0
+收發器	21.0
+ethernet address	21.0
+carrier sense	21.0
+終端器	18.0
+work best under lightly loaded	18.0
+type act demux key identify	18.0
+packet type act demux key	18.0
+network configuration example	18.0
+cable	18.0
+broadcast address	18.0
+bit jamming sequence	18.0
+best under lightly loaded condition	18.0

@@ -1,0 +1,40 @@
+collision	92.0
+CSMA/CD	84.0
+adaptor	60.0
+ethernet MAC protocol CSMA/	45.0
+ethernet frame format	42.0
+最長公尺	36.0
+802.3 ethernet standard	36.0
+51.2	30.0
+repeater	24.0
+idle	24.0
+frame addressed	22.5
+ethernet topology	22.5
+host	22.0
+收發器	21.0
+ethernet address	21.0
+carrier sense	21.0
+終端器	18.0
+work best under lightly loaded	18.0
+type act demux key identify	18.0
+packet type act demux key	18.0
+network configuration example	18.0
+cable	18.0
+broadcast address	18.0
+bit jamming sequence	18.0
+best under lightly loaded condition	18.0
+CHAPTER APPLICATION LAYER	310.652650142
+user agent	247.254150112
+mail server	169.5
+header line	156.0
+key value pair	139.476700063
+client server architecture	126.797000058
+distribution time	118.872187554
+POP3	114.117300052
+local DNS server	101.437600046
+cr lf	99.8526375455
+DHT	96.0
+root DNS server	82.4180500376
+persistent	82.0
+TLD	79.2481250361
+SMTP	78.0
