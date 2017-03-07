@@ -1,0 +1,48 @@
+internetworking	243.0
+IP	103.0
+192.4	93.0
+128.96	93.0
+255.255	84.0
+distance vector	81.0
+classless addressing	76.5
+forwarding table	67.5
+network number	58.5
+link state	58.5
+class C	58.5
+routing	58.0
+router	46.0
+subnetting	45.0
+R2	36.0
+ETH	36.0
+DHCP	36.0
+140.114	34.0
+subnetmask	33.0
+nexthop	33.0
+host	32.0
+class B	31.5
+subnet mask	27.0
+next hop	27.0
+neighbor	27.0
+OSPF open shortest path first	27.0
+MAC B	27.0
+reassembly	24.0
+count infinity problem	24.0
+LSP	24.0
+ID x offset	24.0
+0.0	24.0
+split horizon	22.5
+each node	21.0
+PPP	21.0
+171.69	21.0
+start header	18.0
+rest header	18.0
+packet delivered	18.0
+node A	18.0
+interface	18.0
+directly connected	18.0
+best effort delivery unreliable service	18.0
+address assignment efficiency	18.0
+H5	18.0
+D1 subnetnum	18.0
+prefix	16.0
+subnetnumber	15.0

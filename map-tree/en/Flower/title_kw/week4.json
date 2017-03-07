@@ -1,0 +1,153 @@
+{
+    "name": "week4",
+    "children": [
+        {
+            "name": "bridge",
+            "children": [
+                {
+                    "name": "bridge,D W"
+                }
+            ]
+        },
+        {
+            "name": "topology change",
+            "children": [
+                {
+                    "name": "bridge"
+                },
+                {
+                    "name": "filtering database"
+                },
+                {
+                    "name": "spanning tree algorithm"
+                }
+            ]
+        },
+        {
+            "name": "MAC port",
+            "children": [
+                {
+                    "name": "FDB"
+                },
+                {
+                    "name": "bridge"
+                },
+                {
+                    "name": "spanning tree algorithm",
+                    "children": [
+                        {
+                            "name": "bridge"
+                        },
+                        {
+                            "name": "bridge,root",
+                            "children": [
+                                {
+                                    "name": "bridge,minimum cost"
+                                },
+                                {
+                                    "name": "bridge,designated"
+                                },
+                                {
+                                    "name": "bridge,root,minimum cost"
+                                },
+                                {
+                                    "name": "bridge",
+                                    "children": [
+                                        {
+                                            "name": "RPC"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "designated"
+                                },
+                                {
+                                    "name": "spanning tree algorithm"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "BD",
+            "children": [
+                {
+                    "name": "MAC port"
+                }
+            ]
+        },
+        {
+            "name": "LAN fault",
+            "children": [
+                {
+                    "name": "bridge,BPDU",
+                    "children": [
+                        {
+                            "name": "root"
+                        }
+                    ]
+                },
+                {
+                    "name": "bridge,BPDU,root",
+                    "children": [
+                        {
+                            "name": "bridge",
+                            "children": [
+                                {
+                                    "name": "bridge,BPDU,RPC"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "bridge,root"
+                        },
+                        {
+                            "name": "root,topology change",
+                            "children": [
+                                {
+                                    "name": "bridge,BPDU"
+                                },
+                                {
+                                    "name": "spanning tree algorithm"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "root",
+                            "children": [
+                                {
+                                    "name": "bridge,BPDU,RPC"
+                                },
+                                {
+                                    "name": "bridge",
+                                    "children": [
+                                        {
+                                            "name": "bridge,root"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "spanning tree algorithm"
+                                },
+                                {
+                                    "name": "DPC"
+                                },
+                                {
+                                    "name": "RPC"
+                                },
+                                {
+                                    "name": "bridge,root"
+                                },
+                                {
+                                    "name": "bridge,designated,root,RPC"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

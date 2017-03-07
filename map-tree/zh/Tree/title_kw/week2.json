@@ -1,0 +1,81 @@
+{
+    "name": "week2",
+    "children": [
+        {
+            "name": "k",
+            "children": [
+                {
+                    "name": "intrinsic value",
+                    "children": [
+                        {
+                            "name": "k"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "dividend",
+            "children": [
+                {
+                    "name": "intrinsic value"
+                },
+                {
+                    "name": "k"
+                }
+            ]
+        },
+        {
+            "name": "growth",
+            "children": [
+                {
+                    "name": "dividend"
+                },
+                {
+                    "name": "k"
+                },
+                {
+                    "name": "\u4fdd\u7559"
+                },
+                {
+                    "name": "dividend",
+                    "children": [
+                        {
+                            "name": "growth",
+                            "children": [
+                                {
+                                    "name": "\u4fdd\u7559"
+                                },
+                                {
+                                    "name": "plowback"
+                                },
+                                {
+                                    "name": "k"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "\u4fdd\u7559"
+                        },
+                        {
+                            "name": "plowback"
+                        },
+                        {
+                            "name": "k",
+                            "children": [
+                                {
+                                    "name": "growth",
+                                    "children": [
+                                        {
+                                            "name": "k"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

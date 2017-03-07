@@ -1,0 +1,515 @@
+{
+    "name": "week3",
+    "children": [
+        {
+            "name": "Outline",
+            "children": [
+                {
+                    "name": "coordination function,DCF"
+                },
+                {
+                    "name": "coordination function,PCF"
+                },
+                {
+                    "name": "DS"
+                }
+            ]
+        },
+        {
+            "name": "IEEE 80211",
+            "children": [
+                {
+                    "name": "RTS"
+                }
+            ]
+        },
+        {
+            "name": "IEEE 80211  Exposed node problem",
+            "children": [
+                {
+                    "name": "node problem"
+                }
+            ]
+        },
+        {
+            "name": "CSMA/CA",
+            "children": [
+                {
+                    "name": "RTS"
+                },
+                {
+                    "name": "CTS"
+                }
+            ]
+        },
+        {
+            "name": "IEEE 80211  RTS and CTS frames",
+            "children": [
+                {
+                    "name": "CTS",
+                    "children": [
+                        {
+                            "name": "RTS",
+                            "children": [
+                                {
+                                    "name": "CTS",
+                                    "children": [
+                                        {
+                                            "name": "free"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "RTS"
+                },
+                {
+                    "name": "backoff"
+                }
+            ]
+        },
+        {
+            "name": "IEEE 80211  Not Support Collision Detection",
+            "children": [
+                {
+                    "name": "CSMA/CA"
+                },
+                {
+                    "name": "DS"
+                }
+            ]
+        },
+        {
+            "name": "IEEE 80211  Distribution System",
+            "children": [
+                {
+                    "name": "DS",
+                    "children": [
+                        {
+                            "name": "AP1",
+                            "children": [
+                                {
+                                    "name": "DS"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AP1,DS",
+                            "children": [
+                                {
+                                    "name": "scanning",
+                                    "children": [
+                                        {
+                                            "name": "DS"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CTS,DS",
+                                    "children": [
+                                        {
+                                            "name": "scanning"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IEEE 80211  Frame Format",
+            "children": [
+                {
+                    "name": "DS",
+                    "children": [
+                        {
+                            "name": "distribution system",
+                            "children": [
+                                {
+                                    "name": "DS"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "RTS,CTS",
+                            "children": [
+                                {
+                                    "name": "scanning"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IEEE 80211 MAC Architecture",
+            "children": [
+                {
+                    "name": "DCF,PCF",
+                    "children": [
+                        {
+                            "name": "shall,DCF,PCF"
+                        }
+                    ]
+                },
+                {
+                    "name": "shall",
+                    "children": [
+                        {
+                            "name": "DCF,shall"
+                        },
+                        {
+                            "name": "contention,free",
+                            "children": [
+                                {
+                                    "name": "station",
+                                    "children": [
+                                        {
+                                            "name": "PCF"
+                                        },
+                                        {
+                                            "name": "DCF"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "contention"
+                        }
+                    ]
+                },
+                {
+                    "name": "PIFS",
+                    "children": [
+                        {
+                            "name": "station"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Distributed Coordination Function",
+            "children": [
+                {
+                    "name": "RTS,CTS",
+                    "children": [
+                        {
+                            "name": "duration",
+                            "children": [
+                                {
+                                    "name": "RTS,CTS"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "shall"
+                }
+            ]
+        },
+        {
+            "name": "duration",
+            "children": [
+                {
+                    "name": "SIFS"
+                }
+            ]
+        },
+        {
+            "name": "DCF -- Inter-Frame Space IFS",
+            "children": [
+                {
+                    "name": "PIFS,PCF",
+                    "children": [
+                        {
+                            "name": "contention,PCF"
+                        }
+                    ]
+                },
+                {
+                    "name": "SIFS",
+                    "children": [
+                        {
+                            "name": "shall,PCF,CTS",
+                            "children": [
+                                {
+                                    "name": "PIFS,free"
+                                },
+                                {
+                                    "name": "station"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "DCF,DIFS",
+                    "children": [
+                        {
+                            "name": "DCF",
+                            "children": [
+                                {
+                                    "name": "DIFS,free,CTS"
+                                },
+                                {
+                                    "name": "backoff"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "DCF -- Random Backoff Time",
+            "children": [
+                {
+                    "name": "DIFS,shall",
+                    "children": [
+                        {
+                            "name": "backoff"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "DCF Access Procedure",
+            "children": [
+                {
+                    "name": "RTS,CTS",
+                    "children": [
+                        {
+                            "name": "CTS"
+                        }
+                    ]
+                },
+                {
+                    "name": "DIFS,free",
+                    "children": [
+                        {
+                            "name": "shall,RTS,CTS",
+                            "children": [
+                                {
+                                    "name": "free,NAV"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PCF",
+                    "children": [
+                        {
+                            "name": "duration",
+                            "children": [
+                                {
+                                    "name": "station,NAV"
+                                },
+                                {
+                                    "name": "DIFS,free,CTS"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "station,free",
+                            "children": [
+                                {
+                                    "name": "NAV",
+                                    "children": [
+                                        {
+                                            "name": "station"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "CTS"
+                        },
+                        {
+                            "name": "NAV"
+                        },
+                        {
+                            "name": "shall",
+                            "children": [
+                                {
+                                    "name": "DCF,contention"
+                                },
+                                {
+                                    "name": "backoff"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "backoff"
+                        },
+                        {
+                            "name": "DS",
+                            "children": [
+                                {
+                                    "name": "shall",
+                                    "children": [
+                                        {
+                                            "name": "RTS"
+                                        },
+                                        {
+                                            "name": "CTS"
+                                        },
+                                        {
+                                            "name": "contention"
+                                        },
+                                        {
+                                            "name": "backoff"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Point Coordination Function PCF",
+            "children": [
+                {
+                    "name": "contention,PCF,free"
+                },
+                {
+                    "name": "station",
+                    "children": [
+                        {
+                            "name": "PCF"
+                        }
+                    ]
+                },
+                {
+                    "name": "contention,free",
+                    "children": [
+                        {
+                            "name": "contention"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PCF Access Procedure",
+            "children": [
+                {
+                    "name": "CSMA/CA,PCF"
+                },
+                {
+                    "name": "PIFS",
+                    "children": [
+                        {
+                            "name": "DIFS"
+                        },
+                        {
+                            "name": "contention,station"
+                        }
+                    ]
+                },
+                {
+                    "name": "shall,PCF,station",
+                    "children": [
+                        {
+                            "name": "PIFS"
+                        }
+                    ]
+                },
+                {
+                    "name": "NAV"
+                },
+                {
+                    "name": "shall,PCF"
+                },
+                {
+                    "name": "station,NAV"
+                }
+            ]
+        },
+        {
+            "name": "PCF Transfer Procedure",
+            "children": [
+                {
+                    "name": "PCF,station",
+                    "children": [
+                        {
+                            "name": "SIFS,station",
+                            "children": [
+                                {
+                                    "name": "SIFS"
+                                },
+                                {
+                                    "name": "PCF"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "contention,free"
+                        },
+                        {
+                            "name": "contention",
+                            "children": [
+                                {
+                                    "name": "SIFS,PCF"
+                                },
+                                {
+                                    "name": "NAV"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Summary",
+            "children": [
+                {
+                    "name": "CSMA/CA",
+                    "children": [
+                        {
+                            "name": "DIFS"
+                        }
+                    ]
+                },
+                {
+                    "name": "node problem",
+                    "children": [
+                        {
+                            "name": "SIFS,DIFS,PIFS"
+                        }
+                    ]
+                },
+                {
+                    "name": "RTS,CTS",
+                    "children": [
+                        {
+                            "name": "duration,RTS,CTS"
+                        }
+                    ]
+                },
+                {
+                    "name": "contention,free",
+                    "children": [
+                        {
+                            "name": "duration,NAV"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "week8",
+    "children": [
+        {
+            "name": "transport protocol",
+            "children": [
+                {
+                    "name": "underlying network into"
+                },
+                {
+                    "name": "flow control",
+                    "children": [
+                        {
+                            "name": "control involves preventing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "socket",
+            "children": [
+                {
+                    "name": "ACK"
+                },
+                {
+                    "name": "SYN"
+                },
+                {
+                    "name": "closed"
+                }
+            ]
+        },
+        {
+            "name": "karn/partridge algorithm",
+            "children": [
+                {
+                    "name": "variance among samplertts"
+                }
+            ]
+        },
+        {
+            "name": "jacobson/karels",
+            "children": [
+                {
+                    "name": "estimatedrtt"
+                },
+                {
+                    "name": "deviation"
+                }
+            ]
+        },
+        {
+            "name": "slow start",
+            "children": [
+                {
+                    "name": "exponentially"
+                },
+                {
+                    "name": "loss",
+                    "children": [
+                        {
+                            "name": "W/"
+                        },
+                        {
+                            "name": "RTT"
+                        }
+                    ]
+                },
+                {
+                    "name": "RTT"
+                }
+            ]
+        }
+    ]
+}

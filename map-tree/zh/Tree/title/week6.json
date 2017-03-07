@@ -1,0 +1,114 @@
+{
+    "name": "week6",
+    "children": [
+        {
+            "name": "Resulting Equilibrium Conditions",
+            "children": [
+                {
+                    "name": "market portfolio"
+                },
+                {
+                    "name": "\u76f8\u540c"
+                }
+            ]
+        },
+        {
+            "name": "Explanation",
+            "children": [
+                {
+                    "name": "GE"
+                },
+                {
+                    "name": "contribution"
+                }
+            ]
+        },
+        {
+            "name": "Return and Risk For Individual Securities",
+            "children": [
+                {
+                    "name": "contribution"
+                },
+                {
+                    "name": "market portfolio"
+                }
+            ]
+        },
+        {
+            "name": "Expected return-beta relationship",
+            "children": [
+                {
+                    "name": "\u5c0d\u6295\u8cc7\u7d44\u5408\u4e5f\u6210\u7acb"
+                },
+                {
+                    "name": "\u5c0d\u500b\u5225\u8cc7\u7522\u6210\u7acb\u5c0d\u6295\u8cc7"
+                },
+                {
+                    "name": "\u5225\u8cc7\u7522\u6210\u7acb\u5c0d\u6295\u8cc7\u7d44\u5408"
+                },
+                {
+                    "name": "\u6210\u7acb\u5c0d\u6295\u8cc7\u7d44\u5408\u4e5f"
+                }
+            ]
+        },
+        {
+            "name": "Disequilibrium Example (cont)",
+            "children": [
+                {
+                    "name": "SML",
+                    "children": [
+                        {
+                            "name": "market portfolio"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Capital Market Line",
+            "children": [
+                {
+                    "name": "E rM"
+                }
+            ]
+        },
+        {
+            "name": "Relaxing the assumptions",
+            "children": [
+                {
+                    "name": "intercept"
+                },
+                {
+                    "name": "slope"
+                },
+                {
+                    "name": "SML"
+                }
+            ]
+        },
+        {
+            "name": "Zero-beta version of the CAPM",
+            "children": [
+                {
+                    "name": "slope"
+                }
+            ]
+        },
+        {
+            "name": "Difficulties in applying the CAPM",
+            "children": [
+                {
+                    "name": "unobserved"
+                }
+            ]
+        },
+        {
+            "name": "Two sources of uncertainty",
+            "children": [
+                {
+                    "name": "risk systematic risk"
+                }
+            ]
+        }
+    ]
+}

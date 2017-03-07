@@ -1,0 +1,21 @@
+{
+    "name": "week7",
+    "children": [
+        {
+            "name": "disequilibrium example",
+            "children": [
+                {
+                    "name": "long portfolio"
+                },
+                {
+                    "name": "short portfolio",
+                    "children": [
+                        {
+                            "name": "arbitrage opportunity"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

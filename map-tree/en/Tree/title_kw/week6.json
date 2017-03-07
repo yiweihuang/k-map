@@ -1,0 +1,57 @@
+{
+    "name": "week6",
+    "children": [
+        {
+            "name": "reliable transmission",
+            "children": [
+                {
+                    "name": "acknowledgement",
+                    "children": [
+                        {
+                            "name": "timeouts"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "sliding window protocol",
+            "children": [
+                {
+                    "name": "acknowledgement"
+                },
+                {
+                    "name": "LAF"
+                },
+                {
+                    "name": "the receiver",
+                    "children": [
+                        {
+                            "name": "acknowledgement"
+                        }
+                    ]
+                },
+                {
+                    "name": "receiver acknowledges",
+                    "children": [
+                        {
+                            "name": "LFR"
+                        }
+                    ]
+                },
+                {
+                    "name": "RWS"
+                },
+                {
+                    "name": "SWS"
+                },
+                {
+                    "name": "acknowledgement"
+                },
+                {
+                    "name": "ACK"
+                }
+            ]
+        }
+    ]
+}

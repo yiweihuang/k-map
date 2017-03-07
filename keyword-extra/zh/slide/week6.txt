@@ -1,0 +1,38 @@
+單元資本資產定價模型 CAPM	114.117300052
+單元證券市場線	76.0782000346
+主題六重要投資理論 I	66.5684250303
+SML	58.0
+證券市場線與資本市場線	57.0586500261
+與資本市場線 CML 比較	57.0586500261
+場線與資本市場線 CML	57.0586500261
+單元指數模型 index model	57.0586500261
+E rm rf	38.0391000174
+resulting equilibrium condition	31.6992500144
+market risk premium	28.0
+market portfolio	24.0
+risk free borrowing lending	23.7744375108
+expected return beta relationship	23.7744375108
+cov cov	23.7744375108
+reward risk ratio	19.0195500087
+成立對投資組合也	19.0195500086
+對投資組合也成立	19.0195500086
+對個別資產成立對投資	19.0195500086
+別資產成立對投資組合	19.0195500086
+slope	18.0
+E rM	18.0
+what risk premium portfolio	15.8496250072
+transaction cost liquidity premium	15.8496250072
+risk premium individual security	15.8496250072
+investor will disagree about	15.8496250072
+GE	15.8496250072
+market line	14.2646625065
+E r0	14.2646625065
+1.25	14.0
+相同	12.6797000058
+risk systematic risk	12.6797000058
+ri rm/	12.6797000058
+return fair expected	12.6797000058
+unobserved	9.50977500433
+intercept	9.50977500433
+graph	9.50977500433
+contribution	9.50977500433

@@ -1,0 +1,265 @@
+{
+    "name": "week9",
+    "children": [
+        {
+            "name": "contract",
+            "children": [
+                {
+                    "name": "long position",
+                    "children": [
+                        {
+                            "name": "payoff",
+                            "children": [
+                                {
+                                    "name": "oz"
+                                },
+                                {
+                                    "name": "strike price"
+                                },
+                                {
+                                    "name": "option"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "certain date"
+                },
+                {
+                    "name": "\u4ea4\u5272"
+                },
+                {
+                    "name": "delivery price",
+                    "children": [
+                        {
+                            "name": "oz"
+                        }
+                    ]
+                },
+                {
+                    "name": "certain price",
+                    "children": [
+                        {
+                            "name": "\u5408\u7d04"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "option",
+            "children": [
+                {
+                    "name": "put"
+                },
+                {
+                    "name": "long position",
+                    "children": [
+                        {
+                            "name": "margin"
+                        },
+                        {
+                            "name": "contract"
+                        },
+                        {
+                            "name": "\u5951\u7d04"
+                        },
+                        {
+                            "name": "oz",
+                            "children": [
+                                {
+                                    "name": "daily",
+                                    "children": [
+                                        {
+                                            "name": "\u5951\u7d04"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "balance"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "certain date"
+                },
+                {
+                    "name": "certain price"
+                },
+                {
+                    "name": "strike price"
+                },
+                {
+                    "name": "put"
+                },
+                {
+                    "name": "european"
+                },
+                {
+                    "name": "long call"
+                },
+                {
+                    "name": "short call",
+                    "children": [
+                        {
+                            "name": "long stock"
+                        }
+                    ]
+                },
+                {
+                    "name": "put",
+                    "children": [
+                        {
+                            "name": "strike price"
+                        },
+                        {
+                            "name": "option",
+                            "children": [
+                                {
+                                    "name": "payoff",
+                                    "children": [
+                                        {
+                                            "name": "strike price"
+                                        },
+                                        {
+                                            "name": "option"
+                                        },
+                                        {
+                                            "name": "strike price"
+                                        },
+                                        {
+                                            "name": "notation",
+                                            "children": [
+                                                {
+                                                    "name": "payoff",
+                                                    "children": [
+                                                        {
+                                                            "name": "notation"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "profit \u5229\u6f64"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "strike price"
+                        },
+                        {
+                            "name": "option",
+                            "children": [
+                                {
+                                    "name": "strike price",
+                                    "children": [
+                                        {
+                                            "name": "put",
+                                            "children": [
+                                                {
+                                                    "name": "notation"
+                                                },
+                                                {
+                                                    "name": "payoff",
+                                                    "children": [
+                                                        {
+                                                            "name": "put",
+                                                            "children": [
+                                                                {
+                                                                    "name": "worth"
+                                                                },
+                                                                {
+                                                                    "name": "european"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "spread",
+                                                            "children": [
+                                                                {
+                                                                    "name": "put",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "long stock"
+                                                                        },
+                                                                        {
+                                                                            "name": "plus long",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "payoff"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "\u53ef\u4ee5\u5f97\u5230\u50b5\u5238\u9762\u984d"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "variable"
+                                },
+                                {
+                                    "name": "spread"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "margin",
+            "children": [
+                {
+                    "name": "\u6bcf\u65e5\u7d50\u7b97"
+                },
+                {
+                    "name": "daily"
+                }
+            ]
+        },
+        {
+            "name": "\u4fdd\u672c\u578b\u50b5\u5238",
+            "children": [
+                {
+                    "name": "\u8cb7\u6b0a"
+                }
+            ]
+        },
+        {
+            "name": "principal protected note \u4fdd\u672c\u578b",
+            "children": [
+                {
+                    "name": "\u8cb7\u6b0a",
+                    "children": [
+                        {
+                            "name": "option",
+                            "children": [
+                                {
+                                    "name": "worth"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "worth"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

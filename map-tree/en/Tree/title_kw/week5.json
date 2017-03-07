@@ -1,0 +1,135 @@
+{
+    "name": "week5",
+    "children": [
+        {
+            "name": "VLAN",
+            "children": [
+                {
+                    "name": "group",
+                    "children": [
+                        {
+                            "name": "VLAN",
+                            "children": [
+                                {
+                                    "name": "tagged"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "tagged"
+                        },
+                        {
+                            "name": "access link"
+                        },
+                        {
+                            "name": "all frame"
+                        },
+                        {
+                            "name": "trunk link"
+                        },
+                        {
+                            "name": "hybrid link"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "tagging",
+            "children": [
+                {
+                    "name": "explicit",
+                    "children": [
+                        {
+                            "name": "VLAN",
+                            "children": [
+                                {
+                                    "name": "tagging",
+                                    "children": [
+                                        {
+                                            "name": "all frame"
+                                        },
+                                        {
+                                            "name": "tagged"
+                                        },
+                                        {
+                                            "name": "explicit"
+                                        },
+                                        {
+                                            "name": "hybrid link"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "explicit"
+                                },
+                                {
+                                    "name": "access link"
+                                },
+                                {
+                                    "name": "all frame",
+                                    "children": [
+                                        {
+                                            "name": "explicit"
+                                        },
+                                        {
+                                            "name": "unaware device"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "trunk link"
+                                },
+                                {
+                                    "name": "member set"
+                                },
+                                {
+                                    "name": "connector"
+                                },
+                                {
+                                    "name": "the filtering database",
+                                    "children": [
+                                        {
+                                            "name": "filtering entry"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "hybrid link",
+            "children": [
+                {
+                    "name": "all frame"
+                },
+                {
+                    "name": "tagged"
+                },
+                {
+                    "name": "explicit"
+                }
+            ]
+        },
+        {
+            "name": "rule",
+            "children": [
+                {
+                    "name": "all frame"
+                },
+                {
+                    "name": "tagged"
+                },
+                {
+                    "name": "explicit"
+                },
+                {
+                    "name": "hybrid link"
+                }
+            ]
+        }
+    ]
+}

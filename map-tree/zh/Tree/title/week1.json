@@ -1,0 +1,416 @@
+{
+    "name": "week1",
+    "children": [
+        {
+            "name": "\u6709\u50f9\u8b49\u5238\u985e\u578b",
+            "children": [
+                {
+                    "name": "\u50b5\u6b0a"
+                }
+            ]
+        },
+        {
+            "name": "\u8ca8\u5e63\u5e02\u5834Money Market",
+            "children": [
+                {
+                    "name": "\u56de\u4ea4\u6613",
+                    "children": [
+                        {
+                            "name": "\u5b58\u6b3e"
+                        },
+                        {
+                            "name": "\u9280\u884c"
+                        },
+                        {
+                            "name": "\u4ee5\u66f4\u9ad8\u50f9"
+                        },
+                        {
+                            "name": "\u6295\u8cc7\u4eba"
+                        },
+                        {
+                            "name": "\u76ee\u7684"
+                        },
+                        {
+                            "name": "\u50f9\u5dee"
+                        },
+                        {
+                            "name": "\u81ea\u71df"
+                        },
+                        {
+                            "name": "\u8a3c"
+                        },
+                        {
+                            "name": "\u653f\u5e9c"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "\u50b5\u5238\u5e02\u5834Bond Market",
+            "children": [
+                {
+                    "name": "\u8a3c",
+                    "children": [
+                        {
+                            "name": "\u6a5f\u69cb"
+                        },
+                        {
+                            "name": "\u9280\u884c"
+                        },
+                        {
+                            "name": "\u5e74"
+                        },
+                        {
+                            "name": "\u8ca0\u8cac"
+                        },
+                        {
+                            "name": "\u50b5\u6b0a"
+                        },
+                        {
+                            "name": "bid"
+                        },
+                        {
+                            "name": "municipal bond"
+                        },
+                        {
+                            "name": "\u7a05\u7387"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "\u80a1\u7968\u5e02\u5834",
+            "children": [
+                {
+                    "name": "\u8a17"
+                },
+                {
+                    "name": "\u50b5\u6b0a"
+                },
+                {
+                    "name": "\u5916\u570b"
+                },
+                {
+                    "name": "\u7f8e\u570b"
+                }
+            ]
+        },
+        {
+            "name": "\u80a1\u7968\u6307\u6578",
+            "children": [
+                {
+                    "name": "\u7e3e\u6548"
+                }
+            ]
+        },
+        {
+            "name": "\u7f8e\u570b\u80a1\u7968\u6307\u6578",
+            "children": [
+                {
+                    "name": "\u5e02\u503c",
+                    "children": [
+                        {
+                            "name": "outstanding share"
+                        },
+                        {
+                            "name": "ABC"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "\u5e02\u5834\u985e\u578b",
+            "children": [
+                {
+                    "name": "\u4ef2\u4ecb"
+                },
+                {
+                    "name": "\u6295\u8cc7\u4eba"
+                },
+                {
+                    "name": "\u9280\u884c"
+                },
+                {
+                    "name": "\u50f9\u5dee"
+                },
+                {
+                    "name": "\u8cb7\u8ce3"
+                },
+                {
+                    "name": "\u81ea\u71df"
+                },
+                {
+                    "name": "\u767c\u884c"
+                },
+                {
+                    "name": "\u6b21\u7d1a\u5e02\u5834"
+                }
+            ]
+        },
+        {
+            "name": "\u80a1\u7968\u767c\u884c",
+            "children": [
+                {
+                    "name": "\u767c\u884c",
+                    "children": [
+                        {
+                            "name": "\u6a5f\u69cb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IPO\u6d41\u7a0b",
+            "children": [
+                {
+                    "name": "\u9280\u884c"
+                },
+                {
+                    "name": "\u6a5f\u69cb"
+                },
+                {
+                    "name": "\u55ae\u4f4d",
+                    "children": [
+                        {
+                            "name": "\u6295\u8cc7\u4eba"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u6295\u8cc7\u4eba"
+                },
+                {
+                    "name": "\u767c\u884c"
+                }
+            ]
+        },
+        {
+            "name": "\u4ea4\u6613\u6a5f\u5236",
+            "children": [
+                {
+                    "name": "\u8a3c"
+                },
+                {
+                    "name": "\u8ca0\u8cac"
+                },
+                {
+                    "name": "\u5238\u5546"
+                },
+                {
+                    "name": "limit"
+                },
+                {
+                    "name": "\u8cb7\u8ce3"
+                }
+            ]
+        },
+        {
+            "name": "\u878d\u8cc7",
+            "children": [
+                {
+                    "name": "\u624b\u7e8c\u8cbb"
+                },
+                {
+                    "name": "\u6295\u8cc7\u4eba"
+                },
+                {
+                    "name": "\u9280\u884c"
+                },
+                {
+                    "name": "\u64d4\u4fdd\u54c1"
+                },
+                {
+                    "name": "\u898f\u5b9a"
+                },
+                {
+                    "name": "\u7f8e\u570b"
+                },
+                {
+                    "name": "margin"
+                }
+            ]
+        },
+        {
+            "name": "\u878d\u8cc7\u8a08\u7b97",
+            "children": [
+                {
+                    "name": "margin"
+                },
+                {
+                    "name": "initial"
+                },
+                {
+                    "name": "\u8ca0\u50b5"
+                },
+                {
+                    "name": "\u5e02\u503c"
+                }
+            ]
+        },
+        {
+            "name": "\u878d\u8cc7\u4f55\u6642\u6703\u6536\u5230\u4fdd\u8b49\u91d1\u50ac\u7e73",
+            "children": [
+                {
+                    "name": "stock price fall"
+                },
+                {
+                    "name": "margin"
+                }
+            ]
+        },
+        {
+            "name": "\u878d\u8cc7\u4f55\u6642\u6703\u6536\u5230\u4fdd\u8b49\u91d1\u50ac\u7e73(\u53f0\u7063)",
+            "children": [
+                {
+                    "name": "\u898f\u5b9a"
+                },
+                {
+                    "name": "\u5e02\u503c"
+                }
+            ]
+        },
+        {
+            "name": "\u878d\u5238\u653e\u7a7a",
+            "children": [
+                {
+                    "name": "\u76ee\u7684"
+                },
+                {
+                    "name": "\u878d\u5238"
+                }
+            ]
+        },
+        {
+            "name": "\u6bd4\u8f03\u8cb7\u80a1\u7968 \u548c \u878d\u5238",
+            "children": [
+                {
+                    "name": "initial"
+                },
+                {
+                    "name": "\u878d\u5238"
+                }
+            ]
+        },
+        {
+            "name": "\u878d\u5238\u8a08\u7b97",
+            "children": [
+                {
+                    "name": "margin"
+                },
+                {
+                    "name": "\u5e02\u503c"
+                }
+            ]
+        },
+        {
+            "name": "\u878d\u5238\u4f55\u6642\u6703\u6536\u5230\u4fdd\u8b49\u91d1\u50ac\u7e73",
+            "children": [
+                {
+                    "name": "margin"
+                }
+            ]
+        },
+        {
+            "name": "\u878d\u5238\u4f55\u6642\u6703\u6536\u5230\u4fdd\u8b49\u91d1\u50ac\u7e73(\u53f0\u7063)",
+            "children": [
+                {
+                    "name": "\u878d\u5238"
+                },
+                {
+                    "name": "\u898f\u5b9a"
+                },
+                {
+                    "name": "\u8a3c"
+                },
+                {
+                    "name": "\u5e02\u503c"
+                },
+                {
+                    "name": "\u64d4\u4fdd\u54c1"
+                },
+                {
+                    "name": "\u5238\u5546"
+                },
+                {
+                    "name": "\u624b\u7e8c\u8cbb"
+                }
+            ]
+        },
+        {
+            "name": "\u6295\u8cc7\u516c\u53f8\u7684\u985e\u578b",
+            "children": [
+                {
+                    "name": "\u8a17"
+                },
+                {
+                    "name": "\u55ae\u4f4d"
+                },
+                {
+                    "name": "\u8d16"
+                },
+                {
+                    "name": "\u767c\u884c"
+                },
+                {
+                    "name": "trust",
+                    "children": [
+                        {
+                            "name": "mutual fund"
+                        },
+                        {
+                            "name": "\u653f\u5e9c"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Other investment organizations",
+            "children": [
+                {
+                    "name": "\u8a17",
+                    "children": [
+                        {
+                            "name": "trust"
+                        },
+                        {
+                            "name": "\u5e74"
+                        },
+                        {
+                            "name": "\u6a5f\u69cb"
+                        },
+                        {
+                            "name": "\u6295\u8cc7\u4eba"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "\u8a08\u7b97\u7bc4\u4f8b",
+            "children": [
+                {
+                    "name": "\u5e74"
+                },
+                {
+                    "name": "\u61c9\u9078"
+                },
+                {
+                    "name": "operating expense"
+                }
+            ]
+        },
+        {
+            "name": "\u7e3e\u6548\u5ef6\u7e8c\u6027",
+            "children": [
+                {
+                    "name": "\u5e74"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,566 @@
+{
+    "name": "week7",
+    "children": [
+        {
+            "name": "Outline",
+            "children": [
+                {
+                    "name": "router"
+                },
+                {
+                    "name": "subnetting"
+                },
+                {
+                    "name": "classless addressing"
+                },
+                {
+                    "name": "routing"
+                },
+                {
+                    "name": "distance vector"
+                },
+                {
+                    "name": "link state"
+                }
+            ]
+        },
+        {
+            "name": "Internetworking",
+            "children": [
+                {
+                    "name": "IP",
+                    "children": [
+                        {
+                            "name": "host"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "How Layer 3 Routers Work",
+            "children": [
+                {
+                    "name": "IP,next hop",
+                    "children": [
+                        {
+                            "name": "IP,forwarding table",
+                            "children": [
+                                {
+                                    "name": "IP",
+                                    "children": [
+                                        {
+                                            "name": "router"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "IP,routing"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "router",
+                    "children": [
+                        {
+                            "name": "IP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "IP Datagram Forwarding",
+            "children": [
+                {
+                    "name": "R2,router",
+                    "children": [
+                        {
+                            "name": "directly connected",
+                            "children": [
+                                {
+                                    "name": "host"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "router"
+                        },
+                        {
+                            "name": "forwarding table,network number"
+                        },
+                        {
+                            "name": "host,router"
+                        },
+                        {
+                            "name": "forwarding table,router"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Router Characteristics",
+            "children": [
+                {
+                    "name": "routing",
+                    "children": [
+                        {
+                            "name": "MAC B"
+                        },
+                        {
+                            "name": "reassembly"
+                        },
+                        {
+                            "name": "IP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Router Characteristics Continued",
+            "children": [
+                {
+                    "name": "routing"
+                },
+                {
+                    "name": "router"
+                }
+            ]
+        },
+        {
+            "name": "Subnetting",
+            "children": [
+                {
+                    "name": "router",
+                    "children": [
+                        {
+                            "name": "subnetmask,nexthop",
+                            "children": [
+                                {
+                                    "name": "subnetmask"
+                                },
+                                {
+                                    "name": "interface"
+                                },
+                                {
+                                    "name": "host",
+                                    "children": [
+                                        {
+                                            "name": "subnetmask"
+                                        },
+                                        {
+                                            "name": "interface,nexthop"
+                                        },
+                                        {
+                                            "name": "R2"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "subnet mask"
+                },
+                {
+                    "name": "IP"
+                },
+                {
+                    "name": "subnetmask,nexthop"
+                }
+            ]
+        },
+        {
+            "name": "Classless Addressing",
+            "children": [
+                {
+                    "name": "routing",
+                    "children": [
+                        {
+                            "name": "prefix",
+                            "children": [
+                                {
+                                    "name": "routing"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "network number,class B",
+                    "children": [
+                        {
+                            "name": "class C",
+                            "children": [
+                                {
+                                    "name": "prefix",
+                                    "children": [
+                                        {
+                                            "name": "network number"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "routing",
+                                    "children": [
+                                        {
+                                            "name": "router"
+                                        },
+                                        {
+                                            "name": "network number",
+                                            "children": [
+                                                {
+                                                    "name": "network number,class C"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "host,class B"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "class B"
+                                },
+                                {
+                                    "name": "host,class C",
+                                    "children": [
+                                        {
+                                            "name": "address assignment efficiency"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "network number"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "prefix"
+                },
+                {
+                    "name": "network number,class C"
+                },
+                {
+                    "name": "network number"
+                },
+                {
+                    "name": "class B",
+                    "children": [
+                        {
+                            "name": "network number"
+                        }
+                    ]
+                },
+                {
+                    "name": "router"
+                },
+                {
+                    "name": "class C"
+                }
+            ]
+        },
+        {
+            "name": "Longest prefix matching",
+            "children": [
+                {
+                    "name": "forwarding table,prefix",
+                    "children": [
+                        {
+                            "name": "router"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Address Resolution Protocol ARP",
+            "children": [
+                {
+                    "name": "IP",
+                    "children": [
+                        {
+                            "name": "host,router,next hop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Host Configurations",
+            "children": [
+                {
+                    "name": "ETH"
+                },
+                {
+                    "name": "IP"
+                },
+                {
+                    "name": "host",
+                    "children": [
+                        {
+                            "name": "IP,host",
+                            "children": [
+                                {
+                                    "name": "host"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Dynamic Host Configuration Protocol DHCP",
+            "children": [
+                {
+                    "name": "DHCP",
+                    "children": [
+                        {
+                            "name": "host"
+                        },
+                        {
+                            "name": "DHCP,host",
+                            "children": [
+                                {
+                                    "name": "IP"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "DHCP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Internet Control Message Protocol ICMP",
+            "children": [
+                {
+                    "name": "host,router",
+                    "children": [
+                        {
+                            "name": "IP",
+                            "children": [
+                                {
+                                    "name": "host,router"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "IP",
+                    "children": [
+                        {
+                            "name": "host"
+                        },
+                        {
+                            "name": "reassembly"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Routing",
+            "children": [
+                {
+                    "name": "next hop",
+                    "children": [
+                        {
+                            "name": "each node",
+                            "children": [
+                                {
+                                    "name": "forwarding table",
+                                    "children": [
+                                        {
+                                            "name": "network number"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "routing",
+                                    "children": [
+                                        {
+                                            "name": "next hop"
+                                        },
+                                        {
+                                            "name": "forwarding table,routing"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "routing"
+                        }
+                    ]
+                },
+                {
+                    "name": "routing"
+                }
+            ]
+        },
+        {
+            "name": "Distance Vector",
+            "children": [
+                {
+                    "name": "routing,router",
+                    "children": [
+                        {
+                            "name": "neighbor"
+                        }
+                    ]
+                },
+                {
+                    "name": "neighbor"
+                },
+                {
+                    "name": "each node",
+                    "children": [
+                        {
+                            "name": "directly connected,neighbor"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Count-to-infinity Problem",
+            "children": [
+                {
+                    "name": "split horizon",
+                    "children": [
+                        {
+                            "name": "routing"
+                        }
+                    ]
+                },
+                {
+                    "name": "routing,neighbor"
+                }
+            ]
+        },
+        {
+            "name": "Link State Routing",
+            "children": [
+                {
+                    "name": "LSP",
+                    "children": [
+                        {
+                            "name": "each node,LSP",
+                            "children": [
+                                {
+                                    "name": "LSP",
+                                    "children": [
+                                        {
+                                            "name": "directly connected,neighbor"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "node A",
+                    "children": [
+                        {
+                            "name": "LSP"
+                        }
+                    ]
+                },
+                {
+                    "name": "LSP,link state",
+                    "children": [
+                        {
+                            "name": "LSP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Shortest Path Routing",
+            "children": [
+                {
+                    "name": "OSPF open shortest path first"
+                },
+                {
+                    "name": "routing,router",
+                    "children": [
+                        {
+                            "name": "LSP"
+                        }
+                    ]
+                },
+                {
+                    "name": "router"
+                }
+            ]
+        },
+        {
+            "name": "Summary",
+            "children": [
+                {
+                    "name": "link state",
+                    "children": [
+                        {
+                            "name": "distance vector",
+                            "children": [
+                                {
+                                    "name": "directly connected,routing"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "IP",
+                    "children": [
+                        {
+                            "name": "LSP"
+                        },
+                        {
+                            "name": "routing",
+                            "children": [
+                                {
+                                    "name": "prefix",
+                                    "children": [
+                                        {
+                                            "name": "class C"
+                                        },
+                                        {
+                                            "name": "IP,routing"
+                                        },
+                                        {
+                                            "name": "routing"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "routing"
+                },
+                {
+                    "name": "DHCP,host"
+                },
+                {
+                    "name": "routing,router"
+                }
+            ]
+        }
+    ]
+}

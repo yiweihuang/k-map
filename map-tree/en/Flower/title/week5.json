@@ -1,0 +1,315 @@
+{
+    "name": "week5",
+    "children": [
+        {
+            "name": "Outline",
+            "children": [
+                {
+                    "name": "VLAN"
+                }
+            ]
+        },
+        {
+            "name": "VLAN Aims and Benefits",
+            "children": [
+                {
+                    "name": "VLAN",
+                    "children": [
+                        {
+                            "name": "group",
+                            "children": [
+                                {
+                                    "name": "VLAN"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "group"
+                }
+            ]
+        },
+        {
+            "name": "Configuration",
+            "children": [
+                {
+                    "name": "VLAN"
+                }
+            ]
+        },
+        {
+            "name": "Virtual LANs Technologies",
+            "children": [
+                {
+                    "name": "VLAN"
+                }
+            ]
+        },
+        {
+            "name": "Distribution",
+            "children": [
+                {
+                    "name": "VLAN"
+                }
+            ]
+        },
+        {
+            "name": "Relay",
+            "children": [
+                {
+                    "name": "tagged"
+                },
+                {
+                    "name": "rule,VLAN"
+                },
+                {
+                    "name": "VLAN",
+                    "children": [
+                        {
+                            "name": "tagged"
+                        }
+                    ]
+                },
+                {
+                    "name": "rule",
+                    "children": [
+                        {
+                            "name": "tagged",
+                            "children": [
+                                {
+                                    "name": "VLAN,PVID"
+                                },
+                                {
+                                    "name": "VLAN"
+                                },
+                                {
+                                    "name": "VLAN"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Frame Tagging",
+            "children": [
+                {
+                    "name": "tagging"
+                },
+                {
+                    "name": "tagging,explicit",
+                    "children": [
+                        {
+                            "name": "explicit"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Port-Based VLAN Definitions",
+            "children": [
+                {
+                    "name": "VLAN",
+                    "children": [
+                        {
+                            "name": "access link,all frame,tagged"
+                        },
+                        {
+                            "name": "access link,VLAN,tagged"
+                        }
+                    ]
+                },
+                {
+                    "name": "VLAN,unaware device"
+                },
+                {
+                    "name": "access link"
+                }
+            ]
+        },
+        {
+            "name": "Definitions",
+            "children": [
+                {
+                    "name": "trunk link"
+                },
+                {
+                    "name": "hybrid link,VLAN"
+                }
+            ]
+        },
+        {
+            "name": "all frame",
+            "children": [
+                {
+                    "name": "VLAN,explicit,tagged"
+                },
+                {
+                    "name": "unaware device"
+                }
+            ]
+        },
+        {
+            "name": "Rules for Tagging Frames on a Hybrid link",
+            "children": [
+                {
+                    "name": "VLAN,all frame",
+                    "children": [
+                        {
+                            "name": "tagged",
+                            "children": [
+                                {
+                                    "name": "explicit"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "explicit,tagged",
+                    "children": [
+                        {
+                            "name": "VLAN",
+                            "children": [
+                                {
+                                    "name": "VLAN,explicit,tagged,all frame"
+                                },
+                                {
+                                    "name": "VLAN,tagged,all frame"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "hybrid link"
+                }
+            ]
+        },
+        {
+            "name": "Spanning Tree and VLAN",
+            "children": [
+                {
+                    "name": "VLAN"
+                }
+            ]
+        },
+        {
+            "name": "Bridge Operation for VLAN",
+            "children": [
+                {
+                    "name": "VLAN",
+                    "children": [
+                        {
+                            "name": "set port IDs,member set"
+                        },
+                        {
+                            "name": "set port IDs,tagged"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "VLAN Addressing Learning",
+            "children": [
+                {
+                    "name": "VLAN,SVL",
+                    "children": [
+                        {
+                            "name": "VLAN"
+                        }
+                    ]
+                },
+                {
+                    "name": "VLAN"
+                },
+                {
+                    "name": "SVL"
+                }
+            ]
+        },
+        {
+            "name": "IVL Example -- Multiple Independent VLANs",
+            "children": [
+                {
+                    "name": "connector",
+                    "children": [
+                        {
+                            "name": "VLAN"
+                        }
+                    ]
+                },
+                {
+                    "name": "VLAN,connector"
+                },
+                {
+                    "name": "VLAN,blue"
+                },
+                {
+                    "name": "the filtering database"
+                }
+            ]
+        },
+        {
+            "name": "The Filtering Databases for VLAN",
+            "children": [
+                {
+                    "name": "filtering entry"
+                },
+                {
+                    "name": "VLAN"
+                }
+            ]
+        },
+        {
+            "name": "VLAN Tag Structure",
+            "children": [
+                {
+                    "name": "TPID"
+                },
+                {
+                    "name": "TCI",
+                    "children": [
+                        {
+                            "name": "canonical format indicator"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Summary",
+            "children": [
+                {
+                    "name": "VLAN",
+                    "children": [
+                        {
+                            "name": "access link,all frame,tagged"
+                        },
+                        {
+                            "name": "trunk link,all frame,tagged"
+                        },
+                        {
+                            "name": "hybrid link,tagged",
+                            "children": [
+                                {
+                                    "name": "VLAN"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "set port IDs,member set"
+                        },
+                        {
+                            "name": "set port IDs,tagged"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

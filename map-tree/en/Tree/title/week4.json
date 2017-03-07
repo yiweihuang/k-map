@@ -1,0 +1,165 @@
+{
+    "name": "week4",
+    "children": [
+        {
+            "name": "Outline",
+            "children": [
+                {
+                    "name": "spanning tree algorithm"
+                }
+            ]
+        },
+        {
+            "name": "What is a Bridge",
+            "children": [
+                {
+                    "name": "bridge",
+                    "children": [
+                        {
+                            "name": "spanning tree algorithm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bridge Routing",
+            "children": [
+                {
+                    "name": "bridge"
+                }
+            ]
+        },
+        {
+            "name": "A BLAN Example Without loop",
+            "children": [
+                {
+                    "name": "bridge"
+                }
+            ]
+        },
+        {
+            "name": "Spanning Tree Example 1 Continued",
+            "children": [
+                {
+                    "name": "bridge"
+                }
+            ]
+        },
+        {
+            "name": "Spanning Tree Algorithm requirements",
+            "children": [
+                {
+                    "name": "bridge"
+                }
+            ]
+        },
+        {
+            "name": "Spanning Tree Algorithm definitions",
+            "children": [
+                {
+                    "name": "bridge"
+                },
+                {
+                    "name": "root",
+                    "children": [
+                        {
+                            "name": "minimum cost"
+                        },
+                        {
+                            "name": "designated",
+                            "children": [
+                                {
+                                    "name": "bridge"
+                                },
+                                {
+                                    "name": "spanning tree algorithm"
+                                },
+                                {
+                                    "name": "minimum cost",
+                                    "children": [
+                                        {
+                                            "name": "spanning tree algorithm"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "spanning tree algorithm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Spanning Tree Example 2 continued",
+            "children": [
+                {
+                    "name": "bridge",
+                    "children": [
+                        {
+                            "name": "RPC",
+                            "children": [
+                                {
+                                    "name": "root"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "The Spanning Tree is Predictable",
+            "children": [
+                {
+                    "name": "DPC"
+                }
+            ]
+        },
+        {
+            "name": "Spanning Tree Maintenance",
+            "children": [
+                {
+                    "name": "bridge",
+                    "children": [
+                        {
+                            "name": "root"
+                        },
+                        {
+                            "name": "BPDU"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Final Configuration of  Example 1",
+            "children": [
+                {
+                    "name": "DPC"
+                }
+            ]
+        },
+        {
+            "name": "Final Configuration of Example 2",
+            "children": [
+                {
+                    "name": "DPC"
+                }
+            ]
+        },
+        {
+            "name": "In Summary",
+            "children": [
+                {
+                    "name": "root"
+                },
+                {
+                    "name": "bridge"
+                }
+            ]
+        }
+    ]
+}

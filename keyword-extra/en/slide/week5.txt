@@ -1,0 +1,40 @@
+VLAN	537.0
+bridge/switch	90.0
+access link	54.0
+tagged	48.0
+member set	40.5
+blue	33.0
+based virtual LANs	30.0
+PVID	30.0
+frame but they must different	27.0
+140.114 xx	27.0
+set port IDs	24.0
+SNAP	24.0
+untag set	22.5
+trunk link	22.5
+hybrid link	22.5
+rule	20.0
+tagging	18.0
+red port	18.0
+port MAP	18.0
+link LAN segment used multiplex	18.0
+filtering entry	18.0
+explicit	18.0
+all frame	18.0
+VAB	18.0
+group	16.0
+SVL	15.0
+MAC port	15.0
+A B B A	15.0
+unaware device	13.5
+control element	13.5
+the filtering database	12.0
+layer protocol based	12.0
+connector	12.0
+canonical format indicator	12.0
+broadcast multicast frame	12.0
+bandwidth wasting issue	12.0
+TPID	12.0
+TCI	12.0
+IEEE 802.1 Q	12.0
+802.1 D BLAN	12.0

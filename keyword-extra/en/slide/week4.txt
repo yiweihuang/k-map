@@ -1,0 +1,31 @@
+spanning tree algorithm	240.0
+RPC	210.0
+bridge	199.0
+root	141.0
+cid	137.0
+DPC	108.0
+MAC port	54.0
+BPDU	51.0
+designated	45.0
+FDB	45.0
+topology change	22.5
+LEN LLC PAD FCS	22.5
+LAN fault	22.5
+port x	18.0
+minimum cost	18.0
+for each LAN shortest path	18.0
+each LAN shortest path minimum	18.0
+D W	18.0
+message transmitted some time	15.0
+logical LAN end station	15.0
+filtering database	15.0
+field each MAC frame	15.0
+after forward delay time	15.0
+LANs make physical LANs	15.0
+BD	15.0
+LAN W	13.5
+C E	13.5
+relay frame among	12.0
+network predictable deterministic	12.0
+final configuration example	12.0
+SMAC	12.0

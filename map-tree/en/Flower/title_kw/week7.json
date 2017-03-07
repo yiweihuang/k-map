@@ -1,0 +1,680 @@
+{
+    "name": "week7",
+    "children": [
+        {
+            "name": "link state",
+            "children": [
+                {
+                    "name": "internetworking",
+                    "children": [
+                        {
+                            "name": "H5",
+                            "children": [
+                                {
+                                    "name": "IP",
+                                    "children": [
+                                        {
+                                            "name": "R2"
+                                        },
+                                        {
+                                            "name": "ETH"
+                                        },
+                                        {
+                                            "name": "PPP"
+                                        },
+                                        {
+                                            "name": "internetworking",
+                                            "children": [
+                                                {
+                                                    "name": "router"
+                                                },
+                                                {
+                                                    "name": "IP",
+                                                    "children": [
+                                                        {
+                                                            "name": "router"
+                                                        },
+                                                        {
+                                                            "name": "host"
+                                                        },
+                                                        {
+                                                            "name": "R2,router",
+                                                            "children": [
+                                                                {
+                                                                    "name": "directly connected",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "host",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "ETH"
+                                                                                },
+                                                                                {
+                                                                                    "name": "R2"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "router"
+                                                                },
+                                                                {
+                                                                    "name": "forwarding table,network number",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "next hop",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "nexthop"
+                                                                                },
+                                                                                {
+                                                                                    "name": "internetworking"
+                                                                                },
+                                                                                {
+                                                                                    "name": "interface"
+                                                                                },
+                                                                                {
+                                                                                    "name": "H5"
+                                                                                },
+                                                                                {
+                                                                                    "name": "ETH"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "host,router",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "IP",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "host,router",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "internetworking"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "LSP"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "forwarding table,router"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "router",
+            "children": [
+                {
+                    "name": "next hop,IP",
+                    "children": [
+                        {
+                            "name": "forwarding table,IP",
+                            "children": [
+                                {
+                                    "name": "IP"
+                                },
+                                {
+                                    "name": "routing,IP"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "IP"
+                }
+            ]
+        },
+        {
+            "name": "IP,reassembly",
+            "children": [
+                {
+                    "name": "H5",
+                    "children": [
+                        {
+                            "name": "ETH",
+                            "children": [
+                                {
+                                    "name": "IP",
+                                    "children": [
+                                        {
+                                            "name": "IP,ETH"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "router",
+                            "children": [
+                                {
+                                    "name": "routing",
+                                    "children": [
+                                        {
+                                            "name": "MAC B"
+                                        },
+                                        {
+                                            "name": "reassembly"
+                                        },
+                                        {
+                                            "name": "IP"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "internetworking",
+                                    "children": [
+                                        {
+                                            "name": "interface"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "host,reassembly"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "subnetting",
+            "children": [
+                {
+                    "name": "forwarding table,router",
+                    "children": [
+                        {
+                            "name": "nexthop,subnetmask,subnetnumber",
+                            "children": [
+                                {
+                                    "name": "subnetnumber",
+                                    "children": [
+                                        {
+                                            "name": "subnetmask"
+                                        },
+                                        {
+                                            "name": "nexthop"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "subnetnumber",
+                            "children": [
+                                {
+                                    "name": "interface"
+                                },
+                                {
+                                    "name": "R2"
+                                },
+                                {
+                                    "name": "internetworking"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "router",
+                    "children": [
+                        {
+                            "name": "interface"
+                        }
+                    ]
+                },
+                {
+                    "name": "subnet mask"
+                },
+                {
+                    "name": "IP",
+                    "children": [
+                        {
+                            "name": "next hop,host,router"
+                        }
+                    ]
+                },
+                {
+                    "name": "nexthop,subnetmask",
+                    "children": [
+                        {
+                            "name": "subnetmask"
+                        },
+                        {
+                            "name": "interface",
+                            "children": [
+                                {
+                                    "name": "host,network number",
+                                    "children": [
+                                        {
+                                            "name": "class B"
+                                        },
+                                        {
+                                            "name": "interface",
+                                            "children": [
+                                                {
+                                                    "name": "internetworking"
+                                                },
+                                                {
+                                                    "name": "H5"
+                                                },
+                                                {
+                                                    "name": "R2"
+                                                },
+                                                {
+                                                    "name": "nexthop,interface"
+                                                },
+                                                {
+                                                    "name": "subnet mask"
+                                                },
+                                                {
+                                                    "name": "host",
+                                                    "children": [
+                                                        {
+                                                            "name": "IP"
+                                                        },
+                                                        {
+                                                            "name": "host,IP",
+                                                            "children": [
+                                                                {
+                                                                    "name": "host",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "internetworking"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "ETH"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "classless addressing",
+            "children": [
+                {
+                    "name": "routing",
+                    "children": [
+                        {
+                            "name": "prefix",
+                            "children": [
+                                {
+                                    "name": "routing"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "class B,network number",
+                    "children": [
+                        {
+                            "name": "class C",
+                            "children": [
+                                {
+                                    "name": "prefix",
+                                    "children": [
+                                        {
+                                            "name": "network number"
+                                        },
+                                        {
+                                            "name": "internetworking"
+                                        },
+                                        {
+                                            "name": "forwarding table,prefix",
+                                            "children": [
+                                                {
+                                                    "name": "prefix",
+                                                    "children": [
+                                                        {
+                                                            "name": "prefix,IP",
+                                                            "children": [
+                                                                {
+                                                                    "name": "internetworking"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "class C"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "router"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "routing",
+                                    "children": [
+                                        {
+                                            "name": "router"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "class B"
+                                },
+                                {
+                                    "name": "host,class C",
+                                    "children": [
+                                        {
+                                            "name": "internetworking"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "prefix"
+                },
+                {
+                    "name": "class C,network number"
+                },
+                {
+                    "name": "network number"
+                },
+                {
+                    "name": "class B",
+                    "children": [
+                        {
+                            "name": "class C,network number",
+                            "children": [
+                                {
+                                    "name": "network number",
+                                    "children": [
+                                        {
+                                            "name": "routing",
+                                            "children": [
+                                                {
+                                                    "name": "network number",
+                                                    "children": [
+                                                        {
+                                                            "name": "class B,class C,network number"
+                                                        },
+                                                        {
+                                                            "name": "internetworking"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "host,class B"
+                                                },
+                                                {
+                                                    "name": "next hop,prefix",
+                                                    "children": [
+                                                        {
+                                                            "name": "each node",
+                                                            "children": [
+                                                                {
+                                                                    "name": "forwarding table",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "network number"
+                                                                        },
+                                                                        {
+                                                                            "name": "interface"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "routing",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "interface"
+                                                                        },
+                                                                        {
+                                                                            "name": "distance vector",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "routing,router",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "neighbor",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "node A",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "each node"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "internetworking"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "routing,node A"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "neighbor"
+                                                                                },
+                                                                                {
+                                                                                    "name": "each node",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "directly connected,neighbor"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "link state",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "distance vector",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "directly connected,routing",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "neighbor"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "internetworking"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "routing"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "internetworking"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "router"
+                },
+                {
+                    "name": "class C"
+                }
+            ]
+        },
+        {
+            "name": "DHCP,host",
+            "children": [
+                {
+                    "name": "DHCP",
+                    "children": [
+                        {
+                            "name": "host"
+                        },
+                        {
+                            "name": "DHCP,host",
+                            "children": [
+                                {
+                                    "name": "IP",
+                                    "children": [
+                                        {
+                                            "name": "reassembly"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "internetworking"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "routing,neighbor",
+            "children": [
+                {
+                    "name": "neighbor",
+                    "children": [
+                        {
+                            "name": "routing",
+                            "children": [
+                                {
+                                    "name": "OSPF open shortest path first",
+                                    "children": [
+                                        {
+                                            "name": "class C",
+                                            "children": [
+                                                {
+                                                    "name": "internetworking"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "split horizon"
+                                        },
+                                        {
+                                            "name": "routing,IP",
+                                            "children": [
+                                                {
+                                                    "name": "internetworking"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "routing"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "routing,router",
+                                    "children": [
+                                        {
+                                            "name": "LSP"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "each node"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "link state,routing",
+            "children": [
+                {
+                    "name": "LSP",
+                    "children": [
+                        {
+                            "name": "each node,LSP",
+                            "children": [
+                                {
+                                    "name": "LSP",
+                                    "children": [
+                                        {
+                                            "name": "directly connected,neighbor",
+                                            "children": [
+                                                {
+                                                    "name": "internetworking"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "node A",
+                    "children": [
+                        {
+                            "name": "LSP"
+                        }
+                    ]
+                },
+                {
+                    "name": "link state,LSP",
+                    "children": [
+                        {
+                            "name": "LSP"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

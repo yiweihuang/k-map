@@ -1,0 +1,197 @@
+{
+    "name": "week2",
+    "children": [
+        {
+            "name": "carrier sense",
+            "children": [
+                {
+                    "name": "collision,CSMA/CD",
+                    "children": [
+                        {
+                            "name": "CSMA/CD",
+                            "children": [
+                                {
+                                    "name": "collision",
+                                    "children": [
+                                        {
+                                            "name": "adaptor"
+                                        },
+                                        {
+                                            "name": "idle",
+                                            "children": [
+                                                {
+                                                    "name": "carrier sense"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "adaptor",
+                                    "children": [
+                                        {
+                                            "name": "idle"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "host",
+                                    "children": [
+                                        {
+                                            "name": "bit jamming sequence",
+                                            "children": [
+                                                {
+                                                    "name": "collision"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "idle",
+                                            "children": [
+                                                {
+                                                    "name": "collision",
+                                                    "children": [
+                                                        {
+                                                            "name": "bit jamming sequence"
+                                                        },
+                                                        {
+                                                            "name": "host",
+                                                            "children": [
+                                                                {
+                                                                    "name": "host,collision",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "host"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "collision"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "host,bit jamming sequence"
+                                                        },
+                                                        {
+                                                            "name": "host,collision"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "collision"
+                        }
+                    ]
+                },
+                {
+                    "name": "idle"
+                }
+            ]
+        },
+        {
+            "name": "bus topology",
+            "children": [
+                {
+                    "name": "collision"
+                },
+                {
+                    "name": "work best under lightly loaded,best under lightly loaded condition"
+                }
+            ]
+        },
+        {
+            "name": "ethernet segment",
+            "children": [
+                {
+                    "name": "repeater",
+                    "children": [
+                        {
+                            "name": "host"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "transceiver,adaptor",
+            "children": [
+                {
+                    "name": "host"
+                }
+            ]
+        },
+        {
+            "name": "cable",
+            "children": [
+                {
+                    "name": "idle"
+                }
+            ]
+        },
+        {
+            "name": "ethernet address",
+            "children": [
+                {
+                    "name": "adaptor",
+                    "children": [
+                        {
+                            "name": "host"
+                        },
+                        {
+                            "name": "broadcast address"
+                        }
+                    ]
+                },
+                {
+                    "name": "broadcast address"
+                },
+                {
+                    "name": "adaptor,broadcast address",
+                    "children": [
+                        {
+                            "name": "broadcast address"
+                        },
+                        {
+                            "name": "adaptor,host"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "host,repeater",
+            "children": [
+                {
+                    "name": "collision",
+                    "children": [
+                        {
+                            "name": "CSMA/CD",
+                            "children": [
+                                {
+                                    "name": "carrier sense"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "carrier sense"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "work best under lightly loaded,best under lightly loaded condition",
+            "children": [
+                {
+                    "name": "collision"
+                }
+            ]
+        }
+    ]
+}

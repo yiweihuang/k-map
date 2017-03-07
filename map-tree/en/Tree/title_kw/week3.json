@@ -1,0 +1,171 @@
+{
+    "name": "week3",
+    "children": [
+        {
+            "name": "CTS",
+            "children": [
+                {
+                    "name": "RTS",
+                    "children": [
+                        {
+                            "name": "CTS",
+                            "children": [
+                                {
+                                    "name": "backoff"
+                                },
+                                {
+                                    "name": "AP3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "duration"
+                        },
+                        {
+                            "name": "backoff"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "coordination function",
+            "children": [
+                {
+                    "name": "carrier sense mechanism"
+                },
+                {
+                    "name": "shall"
+                },
+                {
+                    "name": "free"
+                },
+                {
+                    "name": "contention"
+                },
+                {
+                    "name": "station"
+                },
+                {
+                    "name": "superframe"
+                }
+            ]
+        },
+        {
+            "name": "DCF",
+            "children": [
+                {
+                    "name": "PIFS"
+                },
+                {
+                    "name": "PCF",
+                    "children": [
+                        {
+                            "name": "shall"
+                        },
+                        {
+                            "name": "free"
+                        },
+                        {
+                            "name": "station"
+                        },
+                        {
+                            "name": "NAV"
+                        },
+                        {
+                            "name": "station"
+                        },
+                        {
+                            "name": "SIFS"
+                        }
+                    ]
+                },
+                {
+                    "name": "DIFS",
+                    "children": [
+                        {
+                            "name": "DCF",
+                            "children": [
+                                {
+                                    "name": "shall"
+                                },
+                                {
+                                    "name": "busy",
+                                    "children": [
+                                        {
+                                            "name": "backoff"
+                                        },
+                                        {
+                                            "name": "contention"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "RTS",
+                                    "children": [
+                                        {
+                                            "name": "DIFS"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CTS",
+                                    "children": [
+                                        {
+                                            "name": "DIFS",
+                                            "children": [
+                                                {
+                                                    "name": "PIFS"
+                                                },
+                                                {
+                                                    "name": "SIFS"
+                                                },
+                                                {
+                                                    "name": "contention"
+                                                },
+                                                {
+                                                    "name": "backoff",
+                                                    "children": [
+                                                        {
+                                                            "name": "contention"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "free"
+                                },
+                                {
+                                    "name": "DIFS"
+                                },
+                                {
+                                    "name": "contention"
+                                },
+                                {
+                                    "name": "superframe",
+                                    "children": [
+                                        {
+                                            "name": "duration"
+                                        },
+                                        {
+                                            "name": "station"
+                                        },
+                                        {
+                                            "name": "busy"
+                                        },
+                                        {
+                                            "name": "backoff"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

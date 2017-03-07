@@ -1,0 +1,307 @@
+{
+    "name": "week5",
+    "children": [
+        {
+            "name": "VLAN",
+            "children": [
+                {
+                    "name": "group",
+                    "children": [
+                        {
+                            "name": "VLAN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bandwidth wasting issue",
+            "children": [
+                {
+                    "name": "VLAN",
+                    "children": [
+                        {
+                            "name": "tagged"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "based virtual LANs",
+            "children": [
+                {
+                    "name": "bridge/switch"
+                }
+            ]
+        },
+        {
+            "name": "rule",
+            "children": [
+                {
+                    "name": "tagged",
+                    "children": [
+                        {
+                            "name": "PVID,VLAN",
+                            "children": [
+                                {
+                                    "name": "tagged"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "VLAN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "tagging",
+            "children": [
+                {
+                    "name": "explicit,tagging",
+                    "children": [
+                        {
+                            "name": "explicit",
+                            "children": [
+                                {
+                                    "name": "VLAN",
+                                    "children": [
+                                        {
+                                            "name": "VLAN,unaware device"
+                                        },
+                                        {
+                                            "name": "access link"
+                                        },
+                                        {
+                                            "name": "tagged,access link,all frame"
+                                        },
+                                        {
+                                            "name": "tagged,access link,VLAN",
+                                            "children": [
+                                                {
+                                                    "name": "VLAN"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "VLAN"
+                }
+            ]
+        },
+        {
+            "name": "trunk link",
+            "children": [
+                {
+                    "name": "VLAN",
+                    "children": [
+                        {
+                            "name": "trunk link,VLAN"
+                        },
+                        {
+                            "name": "all frame",
+                            "children": [
+                                {
+                                    "name": "tagged,explicit,VLAN"
+                                },
+                                {
+                                    "name": "unaware device"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "hybrid link,rule,tagging",
+            "children": [
+                {
+                    "name": "VLAN,all frame",
+                    "children": [
+                        {
+                            "name": "tagged,hybrid link",
+                            "children": [
+                                {
+                                    "name": "tagged"
+                                },
+                                {
+                                    "name": "explicit"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "tagged,explicit",
+                    "children": [
+                        {
+                            "name": "VLAN",
+                            "children": [
+                                {
+                                    "name": "tagged,explicit,VLAN,all frame"
+                                },
+                                {
+                                    "name": "tagged,VLAN,all frame",
+                                    "children": [
+                                        {
+                                            "name": "VLAN",
+                                            "children": [
+                                                {
+                                                    "name": "set port IDs,member set"
+                                                },
+                                                {
+                                                    "name": "tagged,set port IDs",
+                                                    "children": [
+                                                        {
+                                                            "name": "VLAN",
+                                                            "children": [
+                                                                {
+                                                                    "name": "SVL,VLAN",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "VLAN",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "connector",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "VLAN",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "PVID"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "blue",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "VLAN"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "member set"
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "blue",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "untag set"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "VLAN,connector"
+                                                                                },
+                                                                                {
+                                                                                    "name": "blue,VLAN",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "connector"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "the filtering database"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "SVL"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "hybrid link"
+                }
+            ]
+        },
+        {
+            "name": "VLAN,the filtering database",
+            "children": [
+                {
+                    "name": "filtering entry",
+                    "children": [
+                        {
+                            "name": "VLAN",
+                            "children": [
+                                {
+                                    "name": "port MAP"
+                                },
+                                {
+                                    "name": "TPID"
+                                },
+                                {
+                                    "name": "TCI",
+                                    "children": [
+                                        {
+                                            "name": "canonical format indicator",
+                                            "children": [
+                                                {
+                                                    "name": "SNAP",
+                                                    "children": [
+                                                        {
+                                                            "name": "TPID"
+                                                        },
+                                                        {
+                                                            "name": "TCI"
+                                                        },
+                                                        {
+                                                            "name": "VLAN",
+                                                            "children": [
+                                                                {
+                                                                    "name": "tagged,trunk link,all frame"
+                                                                },
+                                                                {
+                                                                    "name": "tagged,hybrid link",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "VLAN"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "canonical format indicator"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "VLAN"
+                }
+            ]
+        }
+    ]
+}

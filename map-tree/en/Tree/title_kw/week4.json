@@ -1,0 +1,75 @@
+{
+    "name": "week4",
+    "children": [
+        {
+            "name": "spanning tree algorithm",
+            "children": [
+                {
+                    "name": "bridge"
+                },
+                {
+                    "name": "bridge",
+                    "children": [
+                        {
+                            "name": "RPC",
+                            "children": [
+                                {
+                                    "name": "root"
+                                },
+                                {
+                                    "name": "minimum cost",
+                                    "children": [
+                                        {
+                                            "name": "spanning tree algorithm"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "root",
+                    "children": [
+                        {
+                            "name": "minimum cost"
+                        },
+                        {
+                            "name": "designated",
+                            "children": [
+                                {
+                                    "name": "bridge",
+                                    "children": [
+                                        {
+                                            "name": "root",
+                                            "children": [
+                                                {
+                                                    "name": "DPC"
+                                                },
+                                                {
+                                                    "name": "RPC"
+                                                },
+                                                {
+                                                    "name": "bridge"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "BPDU"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "spanning tree algorithm"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "spanning tree algorithm"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

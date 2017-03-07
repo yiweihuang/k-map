@@ -1,0 +1,28 @@
+sliding window protocol	210.0
+SWS	84.0
+RWS	84.0
+stop wait protocol	72.0
+reliable transmission	72.0
+LFR	48.0
+LAF	42.0
+LAR	33.0
+sequence number	30.0
+last frame	27.0
+LFS	27.0
+acknowledgement	25.0
+maxseqnum	24.0
+outstanding frame	22.5
+retransmits original frame	18.0
+receiver acknowledges	18.0
+largest acceptable frame	18.0
+ACK	17.0
+transmission over communication link	15.0
+timeouts	15.0
+seqnumtoack	15.0
+frame will discarded correct	15.0
+also maintains following invariant	15.0
+the receiver	13.5
+since sender	13.5
+copy frame	13.5
+upper bound number	12.0
+sender time out	12.0

@@ -1,14 +1,15 @@
 import sys
 import os
 
-if len(sys.argv) < 4:
-    print('Usage: python3 [].py type week1 slide_num book_num')
+if len(sys.argv) < 5:
+    print('Usage: python3 [].py en type week1 slide_num book_num')
     sys.exit()
 else:
-    type_ = sys.argv[1]
-    week_num = sys.argv[2]
-    extra_slide = sys.argv[3]
-    extra_book = sys.argv[4]
+    lang = sys.argv[1]
+    type_ = sys.argv[2]
+    week_num = sys.argv[3]
+    extra_slide = sys.argv[4]
+    extra_book = sys.argv[5]
 
 # using the file of the tfidf to get the top-n word
 def select_keyword_1(path, extra_slide, out_path):
@@ -30,10 +31,10 @@ def select_keyword_2(slide_path, book_path, extra_slide, extra_book, out_path):
             fw.write(book_lines[num])
 
 if __name__ == '__main__':
-    slide_path = 'dict/slide/' + week_num + '.txt'
-    book_path = 'dict/book/' + week_num + '.txt'
-    write_path_slide = 'keyword-extra/slide/' + week_num + '.txt'
-    write_path_combine = 'keyword-extra/slide_add_book/' + week_num + '.txt'
+    slide_path = 'dict/' + lang + '/slide/' + week_num + '.txt'
+    book_path = 'dict/' + lang + '/slide/' + week_num + '.txt'
+    write_path_slide = 'keyword-extra/' + lang + '/slide/' + week_num + '.txt'
+    write_path_combine = 'keyword-extra/' + lang + '/slide_add_book/' + week_num + '.txt'
     extra_slide = int(extra_slide)
     if type_ == '1':
         select_keyword_1(slide_path, extra_slide, write_path_slide)

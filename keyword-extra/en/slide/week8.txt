@@ -1,0 +1,43 @@
+transport protocol	279.0
+TCP congestion control	108.0
+additive increase multiplicative decrease AIMD	81.0
+congwin	72.0
+slow start	67.5
+congestionwindow	60.0
+MSS	54.0
+ACK	49.0
+client	39.0
+end end protocol	36.0
+SYN	36.0
+FIN	36.0
+simple demultiplexer	27.0
+UDP	26.0
+threshold	24.0
+timeout value	22.5
+step server receives	18.0
+send nothing	18.0
+packet lose	18.0
+multiple application process each host	18.0
+estimatedrtt	18.0
+W/	18.0
+socket	15.0
+karn/partridge algorithm	15.0
+flow control	15.0
+exponentially	15.0
+deviation	15.0
+closing	15.0
+closed	15.0
+RTT	15.0
+set state	13.5
+packet arrives	13.5
+flag signifies	13.5
+capacity network	13.5
+SS CA	13.5
+variance among samplertts	12.0
+underlying network into	12.0
+three way handshake	12.0
+loss	12.0
+linearly	12.0
+jacobson/karels	12.0
+estrtt	12.0
+control involves preventing	12.0

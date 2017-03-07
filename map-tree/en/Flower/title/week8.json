@@ -1,0 +1,418 @@
+{
+    "name": "week8",
+    "children": [
+        {
+            "name": "Outline",
+            "children": [
+                {
+                    "name": "UDP,simple demultiplexer"
+                }
+            ]
+        },
+        {
+            "name": "End-to-end Protocols",
+            "children": [
+                {
+                    "name": "transport protocol",
+                    "children": [
+                        {
+                            "name": "underlying network into"
+                        },
+                        {
+                            "name": "UDP"
+                        },
+                        {
+                            "name": "SYN",
+                            "children": [
+                                {
+                                    "name": "FIN"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "flow control",
+                            "children": [
+                                {
+                                    "name": "client"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Reliable Byte Stream TCP",
+            "children": [
+                {
+                    "name": "UDP"
+                }
+            ]
+        },
+        {
+            "name": "Flow control VS Congestion control",
+            "children": [
+                {
+                    "name": "control involves preventing,flow control"
+                },
+                {
+                    "name": "control involves preventing"
+                }
+            ]
+        },
+        {
+            "name": "TCP Segment",
+            "children": [
+                {
+                    "name": "ACK"
+                }
+            ]
+        },
+        {
+            "name": "TCP Header",
+            "children": [
+                {
+                    "name": "flag signifies"
+                },
+                {
+                    "name": "FIN,SYN",
+                    "children": [
+                        {
+                            "name": "ACK"
+                        }
+                    ]
+                },
+                {
+                    "name": "FIN"
+                },
+                {
+                    "name": "UDP"
+                },
+                {
+                    "name": "ACK"
+                }
+            ]
+        },
+        {
+            "name": "TCP Connection Management",
+            "children": [
+                {
+                    "name": "client,SYN"
+                },
+                {
+                    "name": "SYN,ACK"
+                },
+                {
+                    "name": "client"
+                },
+                {
+                    "name": "client,SYN,ACK"
+                }
+            ]
+        },
+        {
+            "name": "TCP Connection Management cont",
+            "children": [
+                {
+                    "name": "ACK"
+                },
+                {
+                    "name": "socket",
+                    "children": [
+                        {
+                            "name": "SYN"
+                        },
+                        {
+                            "name": "ACK",
+                            "children": [
+                                {
+                                    "name": "SYN"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "FIN",
+                            "children": [
+                                {
+                                    "name": "SYN,ACK"
+                                },
+                                {
+                                    "name": "ACK",
+                                    "children": [
+                                        {
+                                            "name": "FIN",
+                                            "children": [
+                                                {
+                                                    "name": "client"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "client,FIN"
+                },
+                {
+                    "name": "FIN"
+                }
+            ]
+        },
+        {
+            "name": "Timeout value for Retransmission",
+            "children": [
+                {
+                    "name": "RTT",
+                    "children": [
+                        {
+                            "name": "RTT,ACK",
+                            "children": [
+                                {
+                                    "name": "RTT",
+                                    "children": [
+                                        {
+                                            "name": "estrtt,RTT",
+                                            "children": [
+                                                {
+                                                    "name": "ACK"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "estrtt,RTT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Karn/Partridge Algorithm",
+            "children": [
+                {
+                    "name": "RTT",
+                    "children": [
+                        {
+                            "name": "estimatedrtt,RTT"
+                        },
+                        {
+                            "name": "timeout value",
+                            "children": [
+                                {
+                                    "name": "RTT"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "RTT,variance among samplertts"
+                }
+            ]
+        },
+        {
+            "name": "Jacobson/Karels Algorithm",
+            "children": [
+                {
+                    "name": "jacobson/karels"
+                },
+                {
+                    "name": "estimatedrtt,RTT"
+                },
+                {
+                    "name": "deviation"
+                },
+                {
+                    "name": "estimatedrtt,RTT,deviation"
+                }
+            ]
+        },
+        {
+            "name": "TCP Congestion Control",
+            "children": [
+                {
+                    "name": "ACK",
+                    "children": [
+                        {
+                            "name": "congwin",
+                            "children": [
+                                {
+                                    "name": "ACK"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "congwin,threshold",
+                    "children": [
+                        {
+                            "name": "exponentially",
+                            "children": [
+                                {
+                                    "name": "congestionwindow",
+                                    "children": [
+                                        {
+                                            "name": "ACK",
+                                            "children": [
+                                                {
+                                                    "name": "congestionwindow",
+                                                    "children": [
+                                                        {
+                                                            "name": "ACK"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "congestionwindow"
+                        },
+                        {
+                            "name": "linearly",
+                            "children": [
+                                {
+                                    "name": "flow control",
+                                    "children": [
+                                        {
+                                            "name": "packet lose,ACK"
+                                        },
+                                        {
+                                            "name": "loss,congestionwindow"
+                                        },
+                                        {
+                                            "name": "congestionwindow"
+                                        },
+                                        {
+                                            "name": "ACK,MSS"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MSS",
+                            "children": [
+                                {
+                                    "name": "linearly,exponentially",
+                                    "children": [
+                                        {
+                                            "name": "ACK"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "threshold",
+                            "children": [
+                                {
+                                    "name": "linearly",
+                                    "children": [
+                                        {
+                                            "name": "RTT",
+                                            "children": [
+                                                {
+                                                    "name": "slow start"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "ACK"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "ACK"
+                        }
+                    ]
+                },
+                {
+                    "name": "threshold,ACK",
+                    "children": [
+                        {
+                            "name": "threshold"
+                        },
+                        {
+                            "name": "ACK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TCP Congestion Control Slow Start",
+            "children": [
+                {
+                    "name": "slow start",
+                    "children": [
+                        {
+                            "name": "exponentially"
+                        },
+                        {
+                            "name": "loss"
+                        },
+                        {
+                            "name": "congwin,RTT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TCP throughput",
+            "children": [
+                {
+                    "name": "loss"
+                },
+                {
+                    "name": "RTT,W/"
+                },
+                {
+                    "name": "loss,W/",
+                    "children": [
+                        {
+                            "name": "RTT,W/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Summary",
+            "children": [
+                {
+                    "name": "TCP congestion control",
+                    "children": [
+                        {
+                            "name": "ACK"
+                        },
+                        {
+                            "name": "packet lose,ACK",
+                            "children": [
+                                {
+                                    "name": "timeout value"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "UDP"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "name": "week2",
+    "children": [
+        {
+            "name": "Outline",
+            "children": [
+                {
+                    "name": "ethernet frame format"
+                }
+            ]
+        },
+        {
+            "name": "Ethernet: Unreliable Connectionless",
+            "children": [
+                {
+                    "name": "carrier sense",
+                    "children": [
+                        {
+                            "name": "collision"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ethernet 10Base5",
+            "children": [
+                {
+                    "name": "ethernet segment"
+                },
+                {
+                    "name": "repeater"
+                },
+                {
+                    "name": "transceiver"
+                },
+                {
+                    "name": "adaptor"
+                }
+            ]
+        },
+        {
+            "name": "Cable Signaling Manchester Encoding",
+            "children": [
+                {
+                    "name": "idle"
+                }
+            ]
+        },
+        {
+            "name": "Ethernet Switch ASIC example",
+            "children": [
+                {
+                    "name": "ethernet switch"
+                }
+            ]
+        },
+        {
+            "name": "Ethernet Addresses",
+            "children": [
+                {
+                    "name": "adaptor"
+                },
+                {
+                    "name": "ethernet address"
+                },
+                {
+                    "name": "broadcast address"
+                }
+            ]
+        },
+        {
+            "name": "Ethernet MAC protocol",
+            "children": [
+                {
+                    "name": "host"
+                }
+            ]
+        },
+        {
+            "name": "CSMA Carrier Sense Multiple Access",
+            "children": [
+                {
+                    "name": "idle"
+                }
+            ]
+        },
+        {
+            "name": "CSMA collisions",
+            "children": [
+                {
+                    "name": "collision"
+                }
+            ]
+        },
+        {
+            "name": "CSMA/CD Collision Detection",
+            "children": [
+                {
+                    "name": "CSMA/CD",
+                    "children": [
+                        {
+                            "name": "adaptor"
+                        },
+                        {
+                            "name": "host"
+                        },
+                        {
+                            "name": "collision"
+                        }
+                    ]
+                },
+                {
+                    "name": "collision"
+                }
+            ]
+        },
+        {
+            "name": "Collision Window",
+            "children": [
+                {
+                    "name": "collision"
+                },
+                {
+                    "name": "host"
+                },
+                {
+                    "name": "bit jamming sequence"
+                }
+            ]
+        },
+        {
+            "name": "Collision Detection Window for",
+            "children": [
+                {
+                    "name": "CSMA/CD"
+                }
+            ]
+        },
+        {
+            "name": "Exponential Backoff Algorithm",
+            "children": [
+                {
+                    "name": "adaptor"
+                },
+                {
+                    "name": "collision"
+                }
+            ]
+        },
+        {
+            "name": "CSMA/CD Protocol",
+            "children": [
+                {
+                    "name": "carrier sense"
+                },
+                {
+                    "name": "collision"
+                }
+            ]
+        },
+        {
+            "name": "CSMA/CD Collision Handling",
+            "children": [
+                {
+                    "name": "collision"
+                }
+            ]
+        },
+        {
+            "name": "Ethernet Performance",
+            "children": [
+                {
+                    "name": "best under lightly loaded condition"
+                },
+                {
+                    "name": "work best under lightly loaded",
+                    "children": [
+                        {
+                            "name": "collision"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Summary",
+            "children": [
+                {
+                    "name": "CSMA/CD"
+                },
+                {
+                    "name": "bus topology",
+                    "children": [
+                        {
+                            "name": "best under lightly loaded condition"
+                        },
+                        {
+                            "name": "work best under lightly loaded"
+                        },
+                        {
+                            "name": "collision"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
