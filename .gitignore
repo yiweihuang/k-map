@@ -4,3 +4,4 @@ model
 other
 slide_layer
 source/paser_json.py
+source/pdffilter.py

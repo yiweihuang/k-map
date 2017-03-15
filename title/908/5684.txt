@@ -1,0 +1,23 @@
+Outline
+Applications
+Example of an application
+Application Protocol
+Network Connectivity
+How datagrams are delivered in an Internet
+Cost-Effective Resource Sharing
+Logical Channels
+Network Reliability
+Network Architecture
+Protocols
+Protocol Interfaces
+Protocol Architecture
+Encapsulation
+Application
+OSI Architecture
+Description of Layers
+Internet Architecture
+Network Performance
+Bandwidth
+Delay X Bandwidth
+Throughput
+Summary

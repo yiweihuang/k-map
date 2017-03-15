@@ -1,0 +1,34 @@
+Outline
+VLAN Aims and Benefits
+VLAN
+Overview of Virtual LAN
+VLAN Architecture
+Configuration
+Virtual LANs Technologies
+Port-based Virtual LANs
+MAC-based Virtual LANs
+MAC-based Virtual LANs -- MAC5 moves
+IP Subnet-based Virtual LANs
+Layer-3 Protocol based Virtual LANs
+Distribution
+Relay
+Frame Tagging
+Ingress Rules/Egress Rules
+Port-Based VLAN Definitions
+Definitions
+Rules for Tagging Frames on a Hybrid link
+Spanning Tree and VLAN
+Bridge Operation for VLAN
+Examples of Member set and Untagged set
+VLAN Addressing Learning
+Examples of SVL and IVL
+IVL Example -- Multiple Independent VLANs
+If SVL is used for this case
+The Filtering Databases for VLAN
+Static Filtering Entry
+Static VLAN Registration Entry
+Dynamic Filtering Entry By Learning Process
+Dynamic VLAN Registration Entry
+VLAN Tag Structure
+Tag Format SNAP-encoded
+Summary

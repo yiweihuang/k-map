@@ -93,13 +93,13 @@
             "name": "network performance",
             "children": [
                 {
-                    "name": "propagation time"
+                    "name": "transmission time"
                 },
                 {
                     "name": "latency"
                 },
                 {
-                    "name": "transmission time"
+                    "name": "propagation time"
                 }
             ]
         }

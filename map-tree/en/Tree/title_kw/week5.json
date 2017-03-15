@@ -14,21 +14,6 @@
                                     "name": "tagged"
                                 }
                             ]
-                        },
-                        {
-                            "name": "tagged"
-                        },
-                        {
-                            "name": "access link"
-                        },
-                        {
-                            "name": "all frame"
-                        },
-                        {
-                            "name": "trunk link"
-                        },
-                        {
-                            "name": "hybrid link"
                         }
                     ]
                 }
@@ -43,6 +28,9 @@
                         {
                             "name": "VLAN",
                             "children": [
+                                {
+                                    "name": "explicit"
+                                },
                                 {
                                     "name": "tagging",
                                     "children": [
@@ -61,12 +49,6 @@
                                     ]
                                 },
                                 {
-                                    "name": "explicit"
-                                },
-                                {
-                                    "name": "access link"
-                                },
-                                {
                                     "name": "all frame",
                                     "children": [
                                         {
@@ -76,6 +58,9 @@
                                             "name": "unaware device"
                                         }
                                     ]
+                                },
+                                {
+                                    "name": "access link"
                                 },
                                 {
                                     "name": "trunk link"
@@ -93,6 +78,9 @@
                                             "name": "filtering entry"
                                         }
                                     ]
+                                },
+                                {
+                                    "name": "hybrid link"
                                 }
                             ]
                         }

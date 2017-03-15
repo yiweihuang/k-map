@@ -131,7 +131,7 @@ def compare_layer(first_, second_, test_arr, final_dona):
                     final_dona = final_dona + (second_item,)
     return final_dona
 
-def paser_step_one(path):
+def paser_step_one(path, write_title):
     title = []
     with open(path, 'r') as fr:
         json_txt = json.load(fr)
@@ -141,6 +141,9 @@ def paser_step_one(path):
                 title_name = title_name.strip()
                 if title_name not in title:
                     title.append(title_name)
+    fw = open(write_title, 'w')
+    for item in title:
+        fw.write("%s\n" % item)
     return title
 
 def paser_step_two(type_, week_num, path, layer_one):
@@ -220,6 +223,7 @@ def tup_dict_to_tree(type_, name, links):
 
 if __name__ == '__main__':
     data = 'slide_layer/en/' + week_num + '.json'
-    layer_one = paser_step_one(data)
+    write_title = 'title/908/' + week_num + '.txt'
+    layer_one = paser_step_one(data, write_title)
     tup_dict = paser_step_two(type_, week_num, data, layer_one)
     tup_dict_to_tree(type_, week_num, tup_dict)

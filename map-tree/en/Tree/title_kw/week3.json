@@ -38,10 +38,10 @@
                     "name": "shall"
                 },
                 {
-                    "name": "free"
+                    "name": "contention"
                 },
                 {
-                    "name": "contention"
+                    "name": "free"
                 },
                 {
                     "name": "station"
@@ -136,10 +136,10 @@
                                     ]
                                 },
                                 {
-                                    "name": "free"
+                                    "name": "DIFS"
                                 },
                                 {
-                                    "name": "DIFS"
+                                    "name": "free"
                                 },
                                 {
                                     "name": "contention"

@@ -38,10 +38,10 @@
                                     "name": "directly connected"
                                 },
                                 {
-                                    "name": "forwarding table"
+                                    "name": "network number"
                                 },
                                 {
-                                    "name": "network number"
+                                    "name": "forwarding table"
                                 },
                                 {
                                     "name": "host"
@@ -125,10 +125,10 @@
             "name": "subnetting",
             "children": [
                 {
-                    "name": "forwarding table"
+                    "name": "router"
                 },
                 {
-                    "name": "router",
+                    "name": "forwarding table",
                     "children": [
                         {
                             "name": "subnetnumber"
@@ -188,9 +188,6 @@
                             "children": [
                                 {
                                     "name": "prefix"
-                                },
-                                {
-                                    "name": "router"
                                 }
                             ]
                         }
@@ -247,7 +244,12 @@
                     "name": "each node",
                     "children": [
                         {
-                            "name": "directly connected"
+                            "name": "directly connected",
+                            "children": [
+                                {
+                                    "name": "neighbor"
+                                }
+                            ]
                         }
                     ]
                 }

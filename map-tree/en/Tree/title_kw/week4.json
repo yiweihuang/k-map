@@ -11,20 +11,7 @@
                     "name": "bridge",
                     "children": [
                         {
-                            "name": "RPC",
-                            "children": [
-                                {
-                                    "name": "root"
-                                },
-                                {
-                                    "name": "minimum cost",
-                                    "children": [
-                                        {
-                                            "name": "spanning tree algorithm"
-                                        }
-                                    ]
-                                }
-                            ]
+                            "name": "RPC"
                         }
                     ]
                 },
@@ -32,7 +19,12 @@
                     "name": "root",
                     "children": [
                         {
-                            "name": "minimum cost"
+                            "name": "minimum cost",
+                            "children": [
+                                {
+                                    "name": "spanning tree algorithm"
+                                }
+                            ]
                         },
                         {
                             "name": "designated",
@@ -43,6 +35,9 @@
                                         {
                                             "name": "root",
                                             "children": [
+                                                {
+                                                    "name": "topology change"
+                                                },
                                                 {
                                                     "name": "DPC"
                                                 },

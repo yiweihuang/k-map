@@ -1,0 +1,38 @@
+Outline
+A Simple Bridge Example
+What is a Bridge
+The Concept of One Logical LAN
+Functions of a Bridge
+Design Considerations
+Bridge Routing
+A BLAN Example Without loop
+A BLAN Example with Loops
+Bridge Protocol Architecture
+Spanning Tree Routing
+Filtering Database Examples
+Forwarding
+Addresses Learning Example
+Addresses Learning Example AE
+Addresses Learning Example BD
+Addresses Learning Example CB
+Addresses Learning Example DA
+Addresses Learning Example EC
+Loop Problems and Resolution
+Graph Representation of a BLAN
+Spanning Tree Example 1
+Spanning Tree Example 1 Continued
+Spanning Tree Algorithm requirements
+Spanning Tree Algorithm definitions
+Spanning Tree Example 2
+Spanning Tree Example 2 continued
+Spanning Tree Algorithm
+Bridge Port State Diagram
+Bridge Protocol Data Unit  BPDU
+Spanning Tree Algorithm Example
+Spanning Tree Algorithm Example Continued
+Spanning Tree Features
+The Spanning Tree is Predictable
+Spanning Tree Maintenance
+Final Configuration of  Example 1
+Final Configuration of Example 2
+In Summary
