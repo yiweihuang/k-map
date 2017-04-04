@@ -1,0 +1,166 @@
+sliding window protocol	210.0
+SWS	84.0
+RWS	84.0
+stop wait protocol	72.0
+reliable transmission	72.0
+LFR	48.0
+LAF	42.0
+LAR	33.0
+sequence number	30.0
+last frame	27.0
+LFS	27.0
+acknowledgement	25.0
+maxseqnum	24.0
+outstanding frame	22.5
+retransmits original frame	18.0
+receiver acknowledges	18.0
+largest acceptable frame	18.0
+ACK	17.0
+transmission over communication link	15.0
+timeouts	15.0
+seqnumtoack	15.0
+frame will discarded correct	15.0
+also maintains following invariant	15.0
+the receiver	13.5
+since sender	13.5
+copy frame	13.5
+upper bound number	12.0
+sender time out	12.0
+receiver will acknowledge	12.0
+reasonable amount time	12.0
+maintains three variable	12.0
+keeping pipe full	12.0
+frame when frame	12.0
+sender receiver	10.5
+will still buffered because they	9.0
+will sent since frame yet	9.0
+will acknowledge exactly those frame	9.0
+when timeout occurs amount data	9.0
+when sender allowed slide it	9.0
+when receiver allowed slide it	9.0
+when packet loss occurs scheme	9.0
+we do using combination two	9.0
+wait protocol reliable protocol but	9.0
+usually CRC used detect error	9.0
+use link sender should transmit	9.0
+two fundamental mechanism used provide	9.0
+to fully use link sender	9.0
+time far below link capacity	9.0
+the timeout fire too soon	9.0
+the longer take notice packet	9.0
+the link delay bandwidth product	9.0
+the action waiting reasonable amount	9.0
+sufficient	9.0
+still buffered because they within	9.0
+sometimes called automatic repeat reQuest	9.0
+some error code strong enough	9.0
+sent since frame yet arrive	9.0
+sender should transmit up ten	9.0
+sender sends	9.0
+sender send only frame per	9.0
+sender keep pipe full additional	9.0
+sender it frame wa successfully	9.0
+send only frame per RTT	9.0
+receiver receives	9.0
+receiver may still receive duplicated	9.0
+receiver may receive duplicated frame	9.0
+receiver expecting	9.0
+receiver buffer frame sender transmits	9.0
+receiver able throttle sender setting	9.0
+rather than highest number frame	9.0
+preserve order	9.0
+per frame/time per	9.0
+peer saying received earlier frame	9.0
+out order frame will buffered	9.0
+otherwise receiver may still receive	9.0
+order but will still buffered	9.0
+or about/link capacity	9.0
+occurred more severe problem becomes	9.0
+number yet acknowledged such frame	9.0
+note sender need buffer up	9.0
+no buffer receiver frame arrive	9.0
+may error caused signal interference	9.0
+longer take notice packet loss	9.0
+link time far below link	9.0
+link sender should transmit up	9.0
+link delay bandwidth product kb	9.0
+keep pipe full additional complexity	9.0
+if sender doe receive acknowledgment	9.0
+if frame arrive sequentially they	9.0
+if acknowledgment lost delayed arriving	9.0
+how distinguish between different frame	9.0
+fully use link sender should	9.0
+frame/time per frame	9.0
+frame protocol sends back it	9.0
+frame lost	9.0
+frame frame header only data	9.0
+frame arrive sequentially they out	9.0
+for example consider mbps link	9.0
+finally frame arrives retransmitted delayed	9.0
+example consider mbps link m	9.0
+error code strong enough correct	9.0
+error but overhead typically too	9.0
+doe make any sense keep	9.0
+delay bandwidth product kb KB	9.0
+control frame protocol sends back	9.0
+control frame frame header only	9.0
+consider mbps link m RTT	9.0
+certain period time sender time	9.0
+but will still buffered because	9.0
+but overhead typically too high	9.0
+buffer receiver frame arrive out	9.0
+bit per frame/time	9.0
+been received	9.0
+arrives what doe receiver do	9.0
+also sender associate timer each	9.0
+acknowledge exactly those frame received	9.0
+A control frame frame header	9.0
+/time per frame kbps	9.0
+sender transmit another frame	7.5
+keep sender overrunning receiver	7.5
+it necessary wrap around	7.5
+frame receiver willing accept	7.5
+assuming frame size KB	7.5
+assume grow infinitely large	7.5
+two common setting	6.0
+transmitting next frame	6.0
+seqnum each frame	6.0
+performance good enough	6.0
+maximum sending rate	6.0
+frame retransmissions necessary	6.0
+transit decrease	4.5
+to avoid	4.5
+performance protocol	4.5
+how solve	4.5
+how improve	4.5
+header field	4.5
+frame transmits	4.5
+called timeout	4.5
+finite size	3.0
+ARQ	3.0
+transmitted any form any mean	0.0
+system transmitted any form any	0.0
+summary	0.0
+right reserved no part publication	0.0
+retrieval system transmitted any form	0.0
+reserved no part publication file	0.0
+recording otherwise without prior written	0.0
+publication file may reproduced stored	0.0
+professor nen fu huang E	0.0
+photocopying recording otherwise without prior	0.0
+permission professor nen fu huang	0.0
+part publication file may reproduced	0.0
+outline	0.0
+no part publication file may	0.0
+nfhuang c nthu edu tw	0.0
+nen fu huang E mail	0.0
+mechanical photocopying recording otherwise without	0.0
+mail nfhuang c nthu edu	0.0
+introduction	0.0
+huang E mail nfhuang c	0.0
+fu huang E mail nfhuang	0.0
+computer network	0.0
+any form any mean electronic	0.0
+all right reserved no part	0.0
+LAN	0.0
+E mail nfhuang c nthu	0.0

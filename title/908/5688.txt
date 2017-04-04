@@ -27,8 +27,8 @@ If SVL is used for this case
 The Filtering Databases for VLAN
 Static Filtering Entry
 Static VLAN Registration Entry
-Dynamic Filtering Entry By Learning Process
+Dynamic Filtering Entry (By Learning Process)
 Dynamic VLAN Registration Entry
 VLAN Tag Structure
-Tag Format SNAP-encoded
+Tag Format (SNAP-encoded)
 Summary

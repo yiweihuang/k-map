@@ -1,0 +1,17 @@
+技術分析與行為財務
+Efficient Market Hypothesis (EMH)
+Random Walk with Positive Trend
+Forms of the EMH
+Technical Analysis
+Dow Theory Trends
+K線(蠟燭圖 陰陽線)
+移動平均線(Moving Average)
+阻力與支撐
+Event Study
+How Tests Are Structured
+Anomalies
+Explanations of Anomalies
+Fama-Frenchs three-factor model
+Information Processing Errors
+Behavioral Biases
+Limits to Arbitrage

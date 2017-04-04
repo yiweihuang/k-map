@@ -1,23 +1,22 @@
 Outline
 End-to-end Protocols
-Simple Demultiplexer UDP
-Reliable Byte Stream TCP
+Simple Demultiplexer (UDP)
+Reliable Byte Stream (TCP)
 Flow control VS Congestion control
 End-to-end Issues
 TCP Segment
 TCP Header
 TCP Connection Management
 Connection Establishment in TCP
-TCP Connection Management cont
+TCP Connection Management (cont)
 Timeout value for Retransmission
 Karn/Partridge Algorithm
 Jacobson/Karels Algorithm
 TCP retransmission scenarios
-TCP retransmission scenarios more
+TCP retransmission scenarios (more)
 TCP Fast Retransmission
 TCP Congestion Control
-TCP Congestion Control Slow Start
-
+TCP Congestion Control (Slow Start)
 TCP Sender Congestion Control
 TCP throughput
 Summary

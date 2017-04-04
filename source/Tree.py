@@ -148,7 +148,7 @@ def paser_step_one(path, write_title):
 
 def paser_step_two(type_, week_num, path, layer_one):
     if type_ == '1':
-        tfidf_keyword = get_keyword('keyword-extra/en/slide/' + week_num + '.txt')
+        tfidf_keyword = get_keyword('keyword-extra/908/' + week_num + '.txt')
     elif type_ == '2':
         tfidf_keyword = get_keyword('keyword-extra/en/slide_add_book/' + week_num + '.txt')
     with open(path, 'r') as fr:
@@ -171,6 +171,7 @@ def paser_step_two(type_, week_num, path, layer_one):
                 if layer_i < 5:  # layer
                     temp_ = fix_layer(one, tfidf_keyword, json_txt, layer_i)  # order - keyword
                     layer_dict[layer_i] = temp_
+            print(layer_dict)
             until_temp = until_layer(one, tfidf_keyword, json_txt, 5)
             if until_temp:
                 layer_dict[5] = until_temp
@@ -222,8 +223,8 @@ def tup_dict_to_tree(type_, name, links):
             json.dump(root, outfile, indent=4)
 
 if __name__ == '__main__':
-    data = 'slide_layer/en/' + week_num + '.json'
+    data = 'slide_layer/908/' + week_num + '.json'
     write_title = 'title/908/' + week_num + '.txt'
     layer_one = paser_step_one(data, write_title)
     tup_dict = paser_step_two(type_, week_num, data, layer_one)
-    tup_dict_to_tree(type_, week_num, tup_dict)
+    # tup_dict_to_tree(type_, week_num, tup_dict)

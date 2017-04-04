@@ -1,0 +1,271 @@
+wireless LAN	234.0
+RTS	129.0
+SIFS	123.0
+CTS	123.0
+PCF	114.0
+DCF	105.0
+coordination function	99.0
+IEEE 802.11 MAC architecture	97.5
+distribution system	76.5
+NAV	72.0
+DIFS	72.0
+contention	57.0
+shall	48.0
+PIFS	48.0
+node problem	45.0
+backoff	42.0
+DS	42.0
+訊框	36.0
+duration	36.0
+free	34.0
+CSMA/CA	32.0
+對方訊號但同時	30.0
+AP1	30.0
+station	27.0
+scanning	27.0
+data frame	27.0
+AP3	27.0
+ACK frame	27.0
+A C	27.0
+雙方雖然聽	24.0
+superframe	24.0
+probe	24.0
+carrier sense mechanism	24.0
+back off	22.5
+APs	21.0
+busy	20.0
+雖然聽得到對方訊號	18.0
+雖然聽不到對方訊號	18.0
+聽得到對方訊號但	18.0
+聽不到對方訊號但	18.0
+相同對象會造成衝撞	18.0
+工作站	18.0
+同時可傳送給不同對象	18.0
+同時傳送給相同對象會	18.0
+傳送給相同對象會造成	18.0
+但同時可傳送給不同	18.0
+但同時傳送給相同對	18.0
+up mbps	18.0
+gap	18.0
+STA	18.0
+MPDU	18.0
+collision	16.0
+coordinator	15.0
+transmit after	13.5
+through use	13.5
+priority level	13.5
+frame type	13.5
+delivers up	13.5
+addr addr	13.5
+GHz band	13.5
+A node	13.5
+2.4 GHz	13.5
+ux up traffic	12.0
+next frame	12.0
+dx down traffic	12.0
+beacon	12.0
+any node see	12.0
+N/A	12.0
+MAC level ack	12.0
+BSSID	12.0
+window	11.0
+their	10.0
+重送	9.0
+would mistake C conclude cannot	9.0
+work when node move cell	9.0
+where CW an integer between	9.0
+when node sending directly another	9.0
+when node C move cell	9.0
+we use CSMA protocol but	9.0
+use CSMA protocol but performance	9.0
+unlike ethernet neither A nor	9.0
+unicast only used multicast/	9.0
+two more node detect idle	9.0
+two frame collide each other	9.0
+transmits A while C transmits	9.0
+transmit anyone just because hear	9.0
+tod fromds bit frame control	9.0
+to deal mobility partial connectivity	9.0
+to allow detection lost errored	9.0
+this problem since C transmission	9.0
+this exchange informs nearby node	9.0
+this account possibility frame had	9.0
+these two frame collide each	9.0
+there interference B transmits A	9.0
+the source must wait until	9.0
+the signal propagating through space	9.0
+the amount time defined same	9.0
+the PC gain control medium	9.0
+target node addr2 identifies source	9.0
+suppose C want transmit node	9.0
+super frame	9.0
+source destination address each bit	9.0
+some connected wired network infrastructure	9.0
+slot time transmitter turn delay	9.0
+since C transmission D will	9.0
+simply sending association request frame	9.0
+signal there interference B transmits	9.0
+signal reach just node it	9.0
+setting tod fromds bit frame	9.0
+sender receiver exchange control frame	9.0
+sender actually transmits any data	9.0
+recipient	9.0
+receiver exchange control frame each	9.0
+reachable node may change dynamically	9.0
+reach just node it immediate	9.0
+reach B D but A	9.0
+provided MAC named net allocation	9.0
+problem since C transmission D	9.0
+over MHz wide frequency bandwidth	9.0
+only used multicast/broadcast	9.0
+node sending directly another both	9.0
+node mobility	9.0
+node detect idle link try	9.0
+node C move cell serviced	9.0
+neither A nor C aware	9.0
+more node detect idle link	9.0
+may variable per SF basis	9.0
+know sent frame wa received	9.0
+just node it immediate left	9.0
+it would mistake C conclude	9.0
+interference B transmits A while	9.0
+interfere A ability receive B	9.0
+intending send only these frame	9.0
+in case where ack received	9.0
+if two more node detect	9.0
+identifies target node addr2 identifies	9.0
+how these address interpreted depends	9.0
+how know sent frame wa	9.0
+how doe work when node	9.0
+happened when they do receive	9.0
+frame will collide each other	9.0
+frame simply sending association request	9.0
+frame reserve channel large frame	9.0
+frame exchange this worst case	9.0
+frame collide each other B	9.0
+four node able send receive	9.0
+for service require MAC level	9.0
+for example B exchange frame	9.0
+exchange informs nearby node transmission	9.0
+exchange control frame each other	9.0
+example B exchange frame A	9.0
+ethernet neither A nor C	9.0
+each four node able send	9.0
+doe work when node move	9.0
+directly reachable node may change	9.0
+defines additional structure set node	9.0
+control channel	9.0
+connected each other so called	9.0
+conn ID	9.0
+communication because hears B transmission	9.0
+but unlike ethernet neither A	9.0
+before sender actually transmits any	9.0
+at some point C prefers	9.0
+assume each four node able	9.0
+anyone just because hear B	9.0
+another frame ready transmit queued	9.0
+an integer between CWmin CWmax	9.0
+allows automatic medium sharing between	9.0
+allow detection lost errored frame	9.0
+address these two problem algorithm	9.0
+addr1 identifies target node addr2	9.0
+CW an integer between CWmin	9.0
+C want transmit node D	9.0
+C want communicate B so	9.0
+C unaware each other since	9.0
+C reach B D but	9.0
+C C	9.0
+B transmits A while C	9.0
+A while C transmits D	9.0
+using bit chipping sequence	7.5
+used within both configuration	7.5
+they each send frame	7.5
+the idea behind configuration	7.5
+some node allowed roam	7.5
+only hear destination will	7.5
+one using frequency hopping	7.5
+immediately when frame queued	7.5
+frame contains four address	7.5
+expires before attempting contend	7.5
+based medium occupancy time	7.5
+although close enough receiver	7.5
+also known wi fi	7.5
+SA original source address	7.5
+DA final destination address	7.5
+DA TA RA SA	7.5
+非同步傳輸	6.0
+起始	6.0
+其他	6.0
+want hold medium	6.0
+timer reach zero	6.0
+successfully receiving frame	6.0
+successfully received frame	6.0
+src	6.0
+retransmission scheduled sender	6.0
+power	6.0
+most complex case	6.0
+medium propagation delay	6.0
+interfere but sake	6.0
+first frame ack	6.0
+dst	6.0
+close receiver therefore	6.0
+called MIMO technology	6.0
+S to S	6.0
+RA receiver address	6.0
+具時限傳輸	4.5
+trying transmit	4.5
+simplest case	4.5
+management frame	4.5
+key idea	4.5
+join network	4.5
+class frame	4.5
+carry far	4.5
+ad hoc	4.5
+about begin	4.5
+MAC header	4.5
+CRC bit	4.5
+目的地	4.0
+data up byte	4.0
+before trying again	4.0
+初始值	3.0
+rsvd	3.0
+optional	3.0
+mang	3.0
+infrastructured	3.0
+good enough	3.0
+extent	3.0
+authentication	3.0
+T3	3.0
+T1	3.0
+EP	3.0
+condition	2.0
+version	1.0
+situation	1.0
+occurred	1.0
+flag	1.0
+transmitted any form any mean	0.0
+system transmitted any form any	0.0
+summary	0.0
+right reserved no part publication	0.0
+retrieval system transmitted any form	0.0
+reserved no part publication file	0.0
+recording otherwise without prior written	0.0
+publication file may reproduced stored	0.0
+professor nen fu huang E	0.0
+photocopying recording otherwise without prior	0.0
+permission professor nen fu huang	0.0
+part publication file may reproduced	0.0
+outline	0.0
+no part publication file may	0.0
+nfhuang c nthu edu tw	0.0
+nen fu huang E mail	0.0
+mechanical photocopying recording otherwise without	0.0
+mail nfhuang c nthu edu	0.0
+introduction	0.0
+huang E mail nfhuang c	0.0
+fu huang E mail nfhuang	0.0
+computer network	0.0
+any form any mean electronic	0.0
+all right reserved no part	0.0
+FCS	0.0
+E mail nfhuang c nthu	0.0

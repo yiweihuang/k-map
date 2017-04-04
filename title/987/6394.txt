@@ -1,0 +1,33 @@
+投資組合管理 (I)
+Factors Influencing Rates
+Level of Interest Rates
+CPI and Inflation
+Real vs Nominal Rates
+Expected Return and Standard Deviation
+Variance and Standard Deviation
+Risk - Uncertain Outcomes
+Risky Investments with Risk-Free
+Risk Aversion  Utility
+Utility Scores of Alternative Portfolios for Investors
+Dominance Principle
+Utility and Indifference Curves (無異曲線)
+The Trade-off Between Risk and Returns of a
+Indifference Curves
+Risk Averse
+Risk-lover
+Expected Return
+Variance of Return
+Return on a Portfolio
+Portfolio Risk with Risk-Free Asset
+Portfolio Risk
+Portfolio management
+Allocating Capital: Risky  Risk Free Assets
+Combinations Without Leverage
+Investment Opportunity Set: Possible Combinations
+Capital Allocation Line
+Capital Allocation Line with Leverage
+Capital Allocation Line with Higher Borrowing Rate
+The Opportunity Set with Differential Borrowing
+Risk Aversion and Allocation
+Utility Function
+CAL with Risk Preferences

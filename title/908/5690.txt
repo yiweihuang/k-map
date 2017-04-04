@@ -3,7 +3,7 @@ Internetworking
 IP Service Model
 How Layer 3 Routers Work
 IP Datagram Header Format
-Type of Service ToS of IP
+Type of Service (ToS) of IP
 IP Addresses
 How datagrams are delivered in an Internet
 Routers
@@ -12,20 +12,20 @@ An Internet Routing Example
 IP Datagram Forwarding
 IP Fragmentation and Reassembly
 Router Characteristics
-Router Characteristics Continued
+Router Characteristics (Continued)
 Differences Between Bridges and Routers
 Subnetting
 Example2
 Classless Addressing
 Advertise
 Longest prefix matching
-Address Resolution Protocol ARP
+Address Resolution Protocol (ARP)
 ARP Packet Format
 Host Configurations
-Dynamic Host Configuration Protocol DHCP
+Dynamic Host Configuration Protocol (DHCP)
 DHCP
 DHCP Example
-Internet Control Message Protocol ICMP
+Internet Control Message Protocol (ICMP)
 Routing
 Distance Vector
 Count-to-infinity Problem

@@ -1,0 +1,218 @@
+cid	187.0
+foundation	123.0
+data link	48.0
+network performance	27.0
+network connectivity	27.0
+network architecture	27.0
+OSI	27.0
+description layer	22.5
+cost effective resource sharing	22.5
+HTTP	21.0
+資料	18.0
+transmission time	18.0
+session	18.0
+propagation time	18.0
+layer 如何將	18.0
+internet architecture	18.0
+delay X bandwidth	18.0
+TCP	17.0
+pipe	16.0
+x bit/second	15.0
+switched	15.0
+bit transmitted each bit	15.0
+multiplexing	14.0
+host	14.0
+送完	13.5
+peer interface	13.5
+high level	13.5
+IP	13.0
+specification	12.0
+process process channel	12.0
+presentation	12.0
+latency	12.0
+data exchanged between	12.0
+FTP	12.0
+DNS	12.0
+UDP	10.0
+長時間才能傳到對方	9.0
+等對方回應之前應該	9.0
+提供不同主機 process 之間	9.0
+應該要傳送 delay bandwidth	9.0
+對方回應之前應該要	9.0
+將 frame 傳給直接相連	9.0
+在停下來等對方	9.0
+回應之前應該要傳送	9.0
+傳給直接相連主機設備	9.0
+停下來等對方回應	9.0
+來等對方回應之前	9.0
+之前應該要傳送 delay	9.0
+your request I will send	9.0
+x second transmit each bit	9.0
+x bandwidth mean how many	9.0
+www sharecourse net/sharecourse	9.0
+width more will transmission per	9.0
+whole delay bandwidth product worth	9.0
+user datagram protocol unreliable service	9.0
+unit data exchange layer called	9.0
+unicast/broadcast/multicast	9.0
+two performance metric used analyze	9.0
+transmitted based demand each flow	9.0
+transmission raw bit over communication	9.0
+transmission control protocol reliable service	9.0
+transfertime RTT transfersize/bandwidth	9.0
+timeline now each bit occupies	9.0
+time slot/data transmitted	9.0
+time distance/speed light	9.0
+the sender will fully utilize	9.0
+the channel between pair process	9.0
+streaming audio video youtube ppstream	9.0
+space used tie together potentially	9.0
+smaller width more will transmission	9.0
+slot/data transmitted predetermined	9.0
+skype IM MSN line wechat	9.0
+sharecourse net/sharecourse/	9.0
+sender will fully utilize network	9.0
+send whole delay bandwidth product	9.0
+second transmit each bit imagine	9.0
+routing among node within packet	9.0
+round robin priority quality service	9.0
+robin priority quality service qos	9.0
+request I will send data	9.0
+request I got your request	9.0
+reply here data requested I	9.0
+raw bit over communication link	9.0
+provides name space used tie	9.0
+protocol object two different interface	9.0
+process communicating over abstract channel	9.0
+performance metric used analyze performance	9.0
+packet multiple source onto shared	9.0
+online social network facebook twitter	9.0
+one bit transmission propagation important	9.0
+on mbps link width 0.5	9.0
+number bit sender must transmit	9.0
+number bit per second transmitted	9.0
+now each bit occupies micro	9.0
+node protocol link depends relation	9.0
+name space used tie together	9.0
+multiple source onto shared link	9.0
+multiple logical flow over single	9.0
+messaging skype IM MSN line	9.0
+message encapsulated inside low level	9.0
+mean how many data stored	9.0
+mbps link width 0.5 micro	9.0
+look like KB packet mbps	9.0
+logical flow over single physical	9.0
+logical channel	9.0
+link width 0.5 micro second	9.0
+link node	9.0
+link look like KB packet	9.0
+level message encapsulated inside low	9.0
+layer 提供不同主機 process	9.0
+layer typically run only end	9.0
+layer higher layer typically run	9.0
+large file transfer bandwidth critical	9.0
+large byte transmission bandwidth important	9.0
+interoperable when two more protocol	9.0
+instant messaging skype IM MSN	9.0
+http//www sharecourse	9.0
+hour glass shape wide top	9.0
+higher layer typically run only	9.0
+here data requested I got	9.0
+handle transmission raw bit over	9.0
+handle routing among node within	9.0
+got your request I will	9.0
+glass shape wide top narrow	9.0
+gbps link look like KB	9.0
+g audio/video conferencing	9.0
+frame 傳給直接相連主機	9.0
+for large file transfer bandwidth	9.0
+for example delay m bandwidth	9.0
+flow over single physical link	9.0
+file gbps link look like	9.0
+exchanged between node layer called	9.0
+example delay m bandwidth mbps	9.0
+encapsulated inside low level message	9.0
+each protocol object two different	9.0
+each bit occupies micro second	9.0
+doe imply strict layering the	9.0
+different transport stream part single	9.0
+delay x bandwidth mean how	9.0
+data transmitted based demand each	9.0
+data requested I got data	9.0
+data exchange layer called message	9.0
+data before stop wait signal	9.0
+concerned about format data exchanged	9.0
+collect stream bit into frame	9.0
+channel between pair process viewed	9.0
+byte transmission bandwidth important 長	9.0
+burst error several consecutive error	9.0
+bit per second transmitted over	9.0
+bit M bit MB data	9.0
+between node layer called packet	9.0
+before first bit arrives receiver	9.0
+bandwidth mean how many data	9.0
+audio video youtube ppstream kkbox	9.0
+an hour glass shape wide	9.0
+air space wireless radio channel	9.0
+RTT round trip time dominates	9.0
+MB file gbps link look	9.0
+MAC medium access control protocol	9.0
+LAN ethernet	9.0
+I got your request I	9.0
+FIFO round robin priority quality	9.0
+CSMA/CD IEEE 802.3	9.0
+CSMA/CA IEEE 802.11	9.0
+CA IEEE 802.11 wireless LAN	9.0
+A layered architecture computer network	9.0
+/www sharecourse net/	9.0
+/data transmitted predetermined slot	9.0
+/CD IEEE 802.3 ethernet	9.0
+/CA IEEE 802.11 wireless	9.0
+//www sharecourse net	9.0
+transition diagram message format	7.5
+there need both protocol	7.5
+example layered network system	7.5
+preferably two representative	6.0
+preamble SFD DA SA type	6.0
+officially included architecture	6.0
+having some width	6.0
+example protocol architecture	6.0
+SFD DA SA type LLC	6.0
+SA type LLC PAD FCS	6.0
+DA SA type LLC PAD	6.0
+unit time	4.5
+response receiver	4.5
+point architecture	4.5
+point AP	3.0
+network reliability	3.0
+net2	3.0
+net1	3.0
+encapsulation	3.0
+subnetwork	2.0
+netn	2.0
+hardware	2.0
+SNMP	2.0
+transmitted any form any mean	0.0
+system transmitted any form any	0.0
+summary	0.0
+right reserved no part publication	0.0
+retrieval system transmitted any form	0.0
+reserved no part publication file	0.0
+recording otherwise without prior written	0.0
+publication file may reproduced stored	0.0
+professor nen fu huang E	0.0
+photocopying recording otherwise without prior	0.0
+permission professor nen fu huang	0.0
+part publication file may reproduced	0.0
+outline	0.0
+no part publication file may	0.0
+nfhuang c nthu edu tw	0.0
+nen fu huang E mail	0.0
+mechanical photocopying recording otherwise without	0.0
+mail nfhuang c nthu edu	0.0
+introduction	0.0
+huang E mail nfhuang c	0.0
+fu huang E mail nfhuang	0.0
+any form any mean electronic	0.0
+all right reserved no part	0.0
+E mail nfhuang c nthu	0.0

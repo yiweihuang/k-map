@@ -1,25 +1,25 @@
 Outline
-IEEE 80211
-IEEE 80211 Physical layer
-IEEE 80211 Standards
-IEEE 80211  Hidden node problem
-IEEE 80211  Exposed node problem
-IEEE 80211  CSMA/CA
-IEEE 80211  RTS/CTS Frames
-IEEE 80211  RTS and CTS frames
-IEEE 80211  Not Support Collision Detection
-Class 1 frames
-IEEE 80211  Distribution System
-IEEE 80211  Frame Format
-IEEE 80211 MAC Architecture
-Distributed Coordination Function
-DCF -- Inter-Frame Space IFS
-DCF -- Random Backoff Time
-DCF Access Procedure
-RTS/CTS Usage with Fragmentation
+IEEE  80211
+IEEE  80211  Physical  layer
+IEEE  80211  Standards
+IEEE  80211   Hidden  node  problem
+IEEE  80211   Exposed  node  problem
+IEEE  80211   CSMA/CA
+IEEE  80211   RTS/CTS  Frames
+IEEE  80211   RTS  and  CTS  frames
+IEEE  80211   Not  Support  Collision  Detection
+80211  Frame  Types
+IEEE  80211   Distribution  System
+IEEE  80211   Frame  Format
+IEEE  80211  MAC  Architecture
+Distributed  Coordination  Function
+DCF   InterFrame  Space  (IFS)
+DCF   Random  Backoff Time
+DCF  Access  Procedure
+RTS/CTS  Usage  with  Fragmentation
 起始
-Point Coordination Function PCF
-Point Coordination FunctionPCF
-PCF Access Procedure
-PCF Transfer Procedure
+Point  Coordination  Function  (PCF)
+Point  Coordination  Function(PCF)
+PCF  Access  Procedure
+PCF  Transfer  Procedure
 Summary

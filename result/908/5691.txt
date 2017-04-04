@@ -1,0 +1,220 @@
+transport protocol	279.0
+TCP congestion control	108.0
+additive increase multiplicative decrease AIMD	81.0
+congwin	72.0
+slow start	67.5
+congestionwindow	60.0
+MSS	54.0
+ACK	49.0
+client	39.0
+end end protocol	36.0
+SYN	36.0
+FIN	36.0
+simple demultiplexer	27.0
+UDP	26.0
+threshold	24.0
+timeout value	22.5
+step server receives	18.0
+send nothing	18.0
+packet lose	18.0
+multiple application process each host	18.0
+estimatedrtt	18.0
+W/	18.0
+socket	15.0
+karn/partridge algorithm	15.0
+flow control	15.0
+exponentially	15.0
+deviation	15.0
+closing	15.0
+closed	15.0
+RTT	15.0
+set state	13.5
+packet arrives	13.5
+flag signifies	13.5
+capacity network	13.5
+SS CA	13.5
+variance among samplertts	12.0
+underlying network into	12.0
+three way handshake	12.0
+loss	12.0
+linearly	12.0
+jacobson/karels	12.0
+estrtt	12.0
+control involves preventing	12.0
+WAIT	12.0
+increment	10.0
+先加一部分 CW 可以較	9.0
+一部分 CW 可以較早	9.0
+will learn what resource other	9.0
+where nonurgent data contained segment	9.0
+when flag set urgptr field	9.0
+we introduced how convert host	9.0
+valid implying receiver should pay	9.0
+urgent data contained front segment	9.0
+up including value urgptr byte	9.0
+typical limitation network service like	9.0
+transmission service	9.0
+thereby causing router/switch	9.0
+the urgent data contained front	9.0
+the srcport dstport field identify	9.0
+the sender writes byte into	9.0
+the maximum number byte unacknowledged	9.0
+the bit flag field used	9.0
+the acknowledgment	9.0
+than lost sender wait until	9.0
+state diagram	9.0
+srcport dstport field identify source	9.0
+source determine how much capacity	9.0
+source allowed send faster than	9.0
+source address destination address length	9.0
+since also possible earlier packet	9.0
+side must received packet out	9.0
+set any time acknowledgment field	9.0
+sequence number first byte data	9.0
+same order they were sent	9.0
+run over internet rather than	9.0
+retransmit segment add load network	9.0
+resends same acknowledgment sent last	9.0
+receive buffer	9.0
+rather than lost sender wait	9.0
+push operation indicates receiving side	9.0
+packet sent out during last	9.0
+packet sends packet it peer	9.0
+packet may get reordered internet	9.0
+over original approach but doe	9.0
+over internet rather than point	9.0
+other side must received packet	9.0
+order suggests earlier packet might	9.0
+one more packet added each	9.0
+network but take too long	9.0
+message same order they were	9.0
+message after arbitrarily long delay	9.0
+limitation network service like IP	9.0
+limit message some finite size	9.0
+learn what resource other side	9.0
+introduced how convert host host	9.0
+initial seq	9.0
+information about flow data going	9.0
+including value urgptr byte into	9.0
+implying receiver should pay attention	9.0
+how doe source determine network	9.0
+flag set urgptr field indicates	9.0
+flag set any time acknowledgment	9.0
+flag field used relay control	9.0
+finally checksum field used exactly	9.0
+field used relay control information	9.0
+fast retransmit	9.0
+extends host host delivery service	9.0
+every time source successfully sends	9.0
+destination port	9.0
+delivers most copy each message	9.0
+delivers message same order they	9.0
+deliver message after arbitrarily long	9.0
+delayed rather than lost sender	9.0
+data when flag set urgptr	9.0
+data sequence number sequencenum field	9.0
+data being injected into network	9.0
+contains sequence number first byte	9.0
+confused received segment did expect	9.0
+checksum field used exactly same	9.0
+causing router/switch link	9.0
+carry information about flow data	9.0
+body up including value urgptr	9.0
+bit flag field used relay	9.0
+been delayed rather than lost	9.0
+available network so know how	9.0
+also possible earlier packet only	9.0
+CW 可以較早滑動	9.0
+/karels proposed new scheme	9.0
+this second transmission same	7.5
+think term whole packet	7.5
+there need multiply compute	7.5
+support synchronization between sender	7.5
+support arbitrarily large message	7.5
+running two different computer	7.5
+number already been acknowledged	7.5
+many packet safely transit	7.5
+main problem original computation	7.5
+develop algorithm turn unreliable	7.5
+add level demultiplexing allows	7.5
+where factor between	6.0
+where based experience	6.0
+when segment retransmitted	6.0
+unacked	6.0
+trace sawtooth behavior	6.0
+term dominate calculation	6.0
+retransmits missing packet	6.0
+resulting	6.0
+reduced finally packet	6.0
+previously	6.0
+pace transmission packet	6.0
+overrunning capacity receiver	6.0
+may contain data	6.0
+guaranteed message delivery	6.0
+exchanging data segment	6.0
+enters timed wait	6.0
+count segment being	6.0
+associated first second	6.0
+acknowledgment even sequence	6.0
+abetween 0.8 0.9	6.0
+CLOSED	6.0
+will respond	4.5
+share network	4.5
+reorder message	4.5
+port Z	4.5
+point link	4.5
+other direction	4.5
+note small	4.5
+network capable	4.5
+more alarming	4.5
+modification handle	4.5
+drop message	4.5
+delivering some	4.5
+communication service	4.5
+communication channel	4.5
+carried segment	4.5
+called segment	4.5
+been lost	4.5
+become overloaded	4.5
+acknowledgement number	4.5
+round trip time	4.0
+例如	3.0
+scratch	3.0
+port Y	3.0
+port X	3.0
+option padding	3.0
+lastbyteacked	3.0
+implementing	3.0
+commentary	3.0
+LISTEN	3.0
+ESTABLISHED	3.0
+ESTABISHED	3.0
+queue	2.0
+operate	2.0
+offset	2.0
+consideration	2.0
+transmission rate	1.5
+transmitted any form any mean	0.0
+system transmitted any form any	0.0
+summary	0.0
+right reserved no part publication	0.0
+retrieval system transmitted any form	0.0
+reserved no part publication file	0.0
+recording otherwise without prior written	0.0
+publication file may reproduced stored	0.0
+professor nen fu huang E	0.0
+photocopying recording otherwise without prior	0.0
+permission professor nen fu huang	0.0
+part publication file may reproduced	0.0
+outline	0.0
+no part publication file may	0.0
+nfhuang c nthu edu tw	0.0
+nen fu huang E mail	0.0
+mechanical photocopying recording otherwise without	0.0
+mail nfhuang c nthu edu	0.0
+huang E mail nfhuang c	0.0
+fu huang E mail nfhuang	0.0
+computer network	0.0
+any form any mean electronic	0.0
+all right reserved no part	0.0
+E mail nfhuang c nthu	0.0

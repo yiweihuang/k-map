@@ -1,0 +1,263 @@
+internetworking	243.0
+IP	103.0
+192.4	93.0
+128.96	93.0
+255.255	84.0
+distance vector	81.0
+classless addressing	76.5
+forwarding table	67.5
+network number	58.5
+link state	58.5
+class C	58.5
+routing	58.0
+router	46.0
+subnetting	45.0
+R2	36.0
+ETH	36.0
+DHCP	36.0
+140.114	34.0
+subnetmask	33.0
+nexthop	33.0
+host	32.0
+class B	31.5
+subnet mask	27.0
+next hop	27.0
+neighbor	27.0
+OSPF open shortest path first	27.0
+MAC B	27.0
+reassembly	24.0
+count infinity problem	24.0
+LSP	24.0
+ID x offset	24.0
+0.0	24.0
+split horizon	22.5
+each node	21.0
+PPP	21.0
+171.69	21.0
+start header	18.0
+rest header	18.0
+packet delivered	18.0
+node A	18.0
+interface	18.0
+directly connected	18.0
+best effort delivery unreliable service	18.0
+address assignment efficiency	18.0
+H5	18.0
+D1 subnetnum	18.0
+prefix	16.0
+subnetnumber	15.0
+slow response bad news	15.0
+packet delayed long time	15.0
+match	15.0
+internet control message protocol	15.0
+flow/congestion control	15.0
+fast response good news	15.0
+connectionless model data delivery	15.0
+R3	15.0
+update A	13.5
+hand out	13.5
+bit address	13.5
+network point point	12.0
+information about directly	12.0
+data byte	12.0
+address resolution protocol	12.0
+TTL	12.0
+H8	12.0
+H3	12.0
+H1	12.0
+cost	11.0
+will eventually use B get	9.0
+when node detects link failure	9.0
+well suited simple/small	9.0
+version IHL type service total	9.0
+used when packet being forwarded	9.0
+type/	9.0
+type physical network g ethernet	9.0
+type higher layer protocol g	9.0
+tool used today build scalable	9.0
+time live protocol header checksum	9.0
+this cycle stop only when	9.0
+the rule based principle longest	9.0
+the convention place/X	9.0
+targethardwareaddr byte	9.0
+target physical/protocol address	9.0
+target machine responds it physical	9.0
+suppose link A E go	9.0
+suited simple/small network	9.0
+such static approach several shortcoming	9.0
+sourceprotocoladdr byte	9.0
+sourcehardwareaddr byte	9.0
+source/target physical/	9.0
+some relatively small number used	9.0
+slightly different case may cause	9.0
+size chunk three very different	9.0
+say NO any autonomous system	9.0
+put multiple subnets physical network	9.0
+protocoltype type higher layer protocol	9.0
+protocol dependent	9.0
+precedence D T R O	9.0
+pas MAC multicast/broadcast	9.0
+operation layer	9.0
+one technique improve time stabilize	9.0
+number large enough considered infinite	9.0
+node entire network topology AS	9.0
+node B upon hearing E	9.0
+mapping network	9.0
+machine responds it physical address	9.0
+link A E go down	9.0
+key tool used today build	9.0
+it doe deal node link	9.0
+it doe consider addition new	9.0
+introduced issue building scalable heterogeneous	9.0
+intra LAN inter LAN communication	9.0
+interconnect layer network exploit arbitrary	9.0
+instead handing out address random	9.0
+instead give them appropriate number	9.0
+in fact some relatively small	9.0
+highly configurable hard get right	9.0
+hardwaretype type physical network g	9.0
+handing out address random hand	9.0
+for simple network calculate shortest	9.0
+for example might find both	9.0
+fixed size chunk three very	9.0
+filter MAC broadcast multicast packet	9.0
+fact some relatively small number	9.0
+ethernet address configured into network	9.0
+ensure A will eventually use	9.0
+due link/node failure	9.0
+doe deal node link failure	9.0
+doe consider addition new node	9.0
+different case may cause network	9.0
+defines collection error message sent	9.0
+convention place/X after	9.0
+consider addition new node link	9.0
+collection error message sent back	9.0
+chunk three very different size	9.0
+case may cause network unstable	9.0
+can put multiple subnets physical	9.0
+by contrast wanted represent single	9.0
+but also must reflect structure	9.0
+break rigid boundary between address	9.0
+automatic address learning/filtering	9.0
+an arbitrary collection network interconnected	9.0
+address unless they show need	9.0
+address into physical MAC address	9.0
+add another level address/	9.0
+SEQNO	9.0
+PLEN length physical protocol address	9.0
+NO any autonomous system AS	9.0
+MAC M/B filtered	9.0
+IHL type service total length	9.0
+HLEN PLEN length physical protocol	9.0
+H6	9.0
+H4	9.0
+H2	9.0
+F detects link G failed	9.0
+E but B C advertise	9.0
+D T R O O	9.0
+A will eventually use B	9.0
+A technique address two scaling	9.0
+A receives periodic update C	9.0
+/target physical/protocol	9.0
+too many message update	7.5
+table entry discarded refreshed	7.5
+send frame destination directly	7.5
+select output port based	7.5
+node network function single	7.5
+need distributed dynamic protocol	7.5
+hardware type protocol type	7.5
+for WAN larger network	7.5
+easy support mixed medium	7.5
+direct communication between endpoint	7.5
+depending exact timing event	7.5
+defines infrastructure allows these	7.5
+certain network le than	7.5
+automated configuration process required	7.5
+MTU maximum transmission unit	7.5
+IEEE 802.11 wireless byte	7.5
+what problem solution	6.0
+transparent end system	6.0
+these network same	6.0
+requires central administrator	6.0
+packet lost	6.0
+packet delivery model	6.0
+operation request response	6.0
+not plug play	6.0
+manufacturer they unique	6.0
+hlen plen operation	6.0
+following might happen	6.0
+flash	6.0
+drawback manual configuration	6.0
+count infinite problem	6.0
+congestion control avoidance	6.0
+ROUTER	6.0
+MF	6.0
+HOST	6.0
+H9	6.0
+H7	6.0
+DF	6.0
+CRITIC/ECP	6.0
+ARP packet format	6.0
+0.6	6.0
+wait response	4.5
+troubleshooting capability	4.5
+throughput reliability	4.5
+targetprotocoladdr byte	4.5
+subnetted address	4.5
+protocol independent	4.5
+problem include	4.5
+non transparency	4.5
+new information	4.5
+network graph	4.5
+limited security	4.5
+length value	4.5
+ethernet byte	4.5
+dot notation	4.5
+dijkstra algorithm	4.5
+complex security	4.5
+close address	4.5
+administrative domain	4.5
+administration required	4.5
+FDDI byte	4.5
+192.12 69.77	4.5
+171.34 45.12	4.5
+10.3 2.4	4.5
+normal	4.0
+TCP	4.0
+PHY	4.0
+routine	3.0
+property	3.0
+overlap	3.0
+option padding	3.0
+networknum	3.0
+example2	3.0
+else	3.0
+e3	3.0
+ISP	3.0
+note	1.0
+transmitted any form any mean	0.0
+system transmitted any form any	0.0
+summary	0.0
+right reserved no part publication	0.0
+retrieval system transmitted any form	0.0
+reserved no part publication file	0.0
+recording otherwise without prior written	0.0
+publication file may reproduced stored	0.0
+professor nen fu huang E	0.0
+priority	0.0
+photocopying recording otherwise without prior	0.0
+permission professor nen fu huang	0.0
+part publication file may reproduced	0.0
+outline	0.0
+no part publication file may	0.0
+nfhuang c nthu edu tw	0.0
+nen fu huang E mail	0.0
+mechanical photocopying recording otherwise without	0.0
+mail nfhuang c nthu edu	0.0
+introduction	0.0
+huang E mail nfhuang c	0.0
+fu huang E mail nfhuang	0.0
+computer network	0.0
+any form any mean electronic	0.0
+all right reserved no part	0.0
+E mail nfhuang c nthu	0.0

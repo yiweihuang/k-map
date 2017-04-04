@@ -1,0 +1,27 @@
+重要投資理論(I)
+Capital Asset Pricing Model (CAPM)
+CAPM假設
+CAPM假設 (續)
+Resulting Equilibrium Conditions
+Resulting Equilibrium Conditions (cont)
+Explanation
+Return and Risk For Individual Securities
+Expected return-beta relationship
+Question
+Security Market Line
+SML Relationships
+Sample Calculations for SML
+Graph of Sample Calculations
+Disequilibrium Example
+Disequilibrium Example (cont)
+Capital Market Line
+Slope and Market Risk Premium
+Key difference between the SML and the CML
+Relaxing the assumptions
+Zero-beta version of the CAPM
+Liquidity premium
+Difficulties in applying the CAPM
+Index model
+Alpha
+Risk Reduction with Diversification
+Two sources of uncertainty

@@ -1,0 +1,250 @@
+collision	92.0
+CSMA/CD	84.0
+adaptor	60.0
+ethernet MAC protocol CSMA/	45.0
+ethernet frame format	42.0
+最長公尺	36.0
+802.3 ethernet standard	36.0
+51.2	30.0
+repeater	24.0
+idle	24.0
+frame addressed	22.5
+ethernet topology	22.5
+host	22.0
+收發器	21.0
+ethernet address	21.0
+carrier sense	21.0
+終端器	18.0
+work best under lightly loaded	18.0
+type act demux key identify	18.0
+packet type act demux key	18.0
+network configuration example	18.0
+cable	18.0
+broadcast address	18.0
+bit jamming sequence	18.0
+best under lightly loaded condition	18.0
+act demux key identify higher	18.0
+transceiver	15.0
+star topology	13.5
+gigabit ethernet	13.5
+ethernet switch	13.5
+ethernet segment	13.5
+bus topology	13.5
+偵測出衝撞	12.0
+under heavy load	12.0
+signal	12.0
+preamble SFD DA SA type	12.0
+new technology ethernet	12.0
+mbps version called	12.0
+if channel sensed	12.0
+exponential backoff	12.0
+busy	12.0
+SFD DA SA type LLC	12.0
+SA type LLC PAD FCS	12.0
+DA SA type LLC PAD	12.0
+A frame arrives	12.0
+collide	10.0
+開始傳送	9.0
+半訊號增益	9.0
+would had transmit longer thus	9.0
+worst case scenario happens when	9.0
+without changing interface card station	9.0
+window slot time round trip	9.0
+when happens two more frame	9.0
+we need limit ethernet maximum	9.0
+up transmission rate ethernet hub	9.0
+unreliable receiving NIC doesn send	9.0
+transmitter will minimally send bit	9.0
+to speed up transmission rate	9.0
+to know sure frame it	9.0
+thus transmitter will minimally send	9.0
+this strategy doubling delay interval	9.0
+the worst case scenario happens	9.0
+the other way look situation	9.0
+the first bit A frame	9.0
+the farther apart two node	9.0
+the ethernet said persistent protocol	9.0
+terminator attached end each segment	9.0
+take frame sent reach other	9.0
+sure frame it just sent	9.0
+successful local area networking technology	9.0
+stopped it transmission wait certain	9.0
+spoke run separate ethernet protocol	9.0
+speed up transmission rate ethernet	9.0
+source destination MAC address each	9.0
+small device directly attached tap	9.0
+since there centralized control possible	9.0
+similarly address first bit set	9.0
+several point point segment coming	9.0
+set node send receive frame	9.0
+sequence six number separated colon	9.0
+separate ethernet protocol node do	9.0
+send more bit before detecting	9.0
+selected randomly before trying again	9.0
+run separate ethernet protocol node	9.0
+receiving NIC doesn send ACKs	9.0
+random delay time unit slot	9.0
+propagation delay time plus some	9.0
+prefix must prepended address every	9.0
+preamble SFD DA SA TYPE	9.0
+point point segment coming out	9.0
+palo alto research center PARC	9.0
+pair hexadecimal digit each bit	9.0
+padding when LLC frame byte	9.0
+or both had been waiting	9.0
+number corresponds byte byte address	9.0
+node send receive frame over	9.0
+need limit ethernet maximum latency	9.0
+must transmit sure detects possible	9.0
+must continue transmit until time	9.0
+must contain least byte data	9.0
+most successful local area networking	9.0
+minimally frame must contain least	9.0
+mean given segment longer than	9.0
+may need send many bit	9.0
+max byte prevent dominating bandwidth	9.0
+manufacturer ethernet device allocated different	9.0
+long there may up four	9.0
+local area networking technology last	9.0
+load too much network capacity	9.0
+last first out effect station	9.0
+know sure frame it just	9.0
+it usually burnt into ROM	9.0
+in general algorithm randomly selects	9.0
+in addition unicast address ethernet	9.0
+hence maximum length ethernet order	9.0
+heavy load too much network	9.0
+header byte data byte CRC	9.0
+given pair hexadecimal digit each	9.0
+general algorithm randomly selects k	9.0
+frame must long enough detect	9.0
+frame must contain least byte	9.0
+frame it just sent did	9.0
+first widely used LAN technology	9.0
+farther apart two node longer	9.0
+ethernet work best under lightly	9.0
+either because both found line	9.0
+each spoke run separate ethernet	9.0
+each number corresponds byte byte	9.0
+each frame transmitted ethernet received	9.0
+double amount time wait before	9.0
+different physical layer medium fiber	9.0
+delay time unit slot time	9.0
+copper twister pair physical layer	9.0
+continue transmit until time order	9.0
+connectionless no handshaking between sending	9.0
+colliding another first make sure	9.0
+case scenario happens when two	9.0
+byte header byte data byte	9.0
+but now most built into	9.0
+between each retransmission attempt known	9.0
+begin transmit it own frame	9.0
+attached end each segment absorb	9.0
+an ethernet total reach only	9.0
+allows clock sending receiving node	9.0
+address pass only those frame	9.0
+address first bit set but	9.0
+a sequence six number separated	9.0
+SFD DA SA TYPE LLC	9.0
+SA TYPE LLC PAD FCS	9.0
+PAD padding when LLC frame	9.0
+MAC frame size DA FCS	9.0
+FCS frame check sequence CRC	9.0
+DEC intel joined xerox define	9.0
+DA SA TYPE LLC PAD	9.0
+B will send bit jamming	9.0
+A set node send receive	9.0
+A must transmit sure detects	9.0
+A must continue transmit until	9.0
+A begin transmitting frame time	9.0
+0.7 V	9.0
+why it length limited	7.5
+two node may hear	7.5
+transmits therefore detect when	7.5
+transmit before station waited	7.5
+frame reach will happen	7.5
+for example e4 b1	7.5
+excellent performance wired speed	7.5
+each ethernet port transmission	7.5
+developed mid researcher xerox	7.5
+deference defers transmission channel	7.5
+consider maximally configured ethernet	7.5
+connection le unreliable transmission	7.5
+colliding transmission aborted reducing	7.5
+T stand twisted pair	7.5
+SFD start frame delimiter	7.5
+SA source MAC address	7.5
+AMD been assigned prefix	7.5
+with common configuration	6.0
+why bit byte	6.0
+wasted	6.0
+transmitted another node	6.0
+over entire network	6.0
+metcalfe ethernet sketch	6.0
+k min truncation	6.0
+five segment maximum	6.0
+ethernet unreliable connectionless	6.0
+ether switch architecture	6.0
+entire packet transmission	6.0
+each bit transition	6.0
+denotes link latency	6.0
+active switch center	6.0
+NACKs sending NIC	6.0
+HUB	6.0
+BEBA	6.0
+two segment	4.5
+stop transmission	4.5
+so far	4.5
+single segment	4.5
+readable format	4.5
+original wa	4.5
+nibble byte	4.5
+limited length	4.5
+level protocol	4.5
+leading dropped	4.5
+frame accepts	4.5
+ethernet performance	4.5
+channel wastage	4.5
+byte long	4.5
+FCS CRC	4.5
+1.825 V	4.5
+0.225 V	4.5
+simultaneously	4.0
+位元組	3.0
+year	3.0
+shared link	3.0
+same time	3.0
+progress	3.0
+loading	3.0
+introduction computer	3.0
+TX	3.0
+T4	3.0
+T2	3.0
+SX	3.0
+FX	3.0
+BX	3.0
+transport	1.0
+application	1.0
+transmitted any form any mean	0.0
+system transmitted any form any	0.0
+summary	0.0
+right reserved no part publication	0.0
+retrieval system transmitted any form	0.0
+reserved no part publication file	0.0
+recording otherwise without prior written	0.0
+publication file may reproduced stored	0.0
+professor nen fu huang E	0.0
+photocopying recording otherwise without prior	0.0
+permission professor nen fu huang	0.0
+part publication file may reproduced	0.0
+outline	0.0
+no part publication file may	0.0
+nfhuang c nthu edu tw	0.0
+nen fu huang E mail	0.0
+mechanical photocopying recording otherwise without	0.0
+mail nfhuang c nthu edu	0.0
+huang E mail nfhuang c	0.0
+fu huang E mail nfhuang	0.0
+any form any mean electronic	0.0
+all right reserved no part	0.0
+E mail nfhuang c nthu	0.0

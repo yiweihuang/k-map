@@ -1,0 +1,175 @@
+well diversified portfolio	101.437600046
+APT	101.437600046
+單元套利	85.587975039
+rM	78.0
+主題七重要投資理論 II	66.5684250303
+單元因子模型 factor model	57.0586500261
+arbitrage pricing theory	57.058650026
+單元不均衡套利	47.5488750218
+disequilibrium example	33.0
+net profit zero investment	31.6992500145
+CAPM	30.1142875137
+E rE	30.0
+GDP	28.529325013
+/risk free/	23.7744375108
+factor sensitivity	23.7744375108
+single factor	19.0195500087
+short portfolio	19.0195500087
+if F	19.0195500087
+use fund construct	19.0195500087
+ri E ri	19.0195500087
+macro economic factor	19.0195500087
+firm specific event	19.0195500087
+預期改變則報酬會上升	19.0195500086
+未預期改變則報酬會	19.0195500086
+好等於用 rf	19.0195500086
+E ri betai F ei	19.0195500086
+SML	16.0
+rP E rP bPF	15.8496250072
+if actual expected return	15.8496250072
+there must	14.2646625065
+long portfolio	14.2646625065
+individual stock	14.2646625065
+arbitrage opportunity	14.2646625065
+0.5 0.5	14.2646625065
+portfolio individual security	12.6797000058
+nonfactor risk ignored	12.6797000058
+gross domestic product	12.6797000058
+E F F	12.6797000058
+some	9.50977500433
+bA	9.50977500433
+風險獲得補償並非因承擔	9.50977500432
+風險才對推得實現	9.50977500432
+風險則不會會被補貼	9.50977500432
+非系統風險則不會會被	9.50977500432
+違反單一價格法則 low	9.50977500432
+進入買低賣高	9.50977500432
+資產時分散效果當有大量	9.50977500432
+資產報酬可用因子模型	9.50977500432
+資產因承擔市場風險獲得	9.50977500432
+該資產因承擔市場風險	9.50977500432
+補貼而言只有系統風險	9.50977500432
+補償並非因承擔別公司	9.50977500432
+被補貼而言只有系統	9.50977500432
+若 IR 未預期改變	9.50977500432
+而言只有系統風險才	9.50977500432
+者進入買低賣	9.50977500432
+結果然而經濟理論上而言	9.50977500432
+系統風險才對推得	9.50977500432
+目前可得訊息之下預期報酬	9.50977500432
+皆可做為 benchmark	9.50977500432
+當單一價格法則違反時	9.50977500432
+用來描述何項因素	9.50977500432
+獲得補償並非因承擔別	9.50977500432
+歸結果然而經濟理論上	9.50977500432
+機會違反單一價格法則	9.50977500432
+有足夠大部位便能	9.50977500432
+有足夠多資產分散非系	9.50977500432
+會被補貼而言只有	9.50977500432
+效果當有大量 PPiiiPiniiiPPniiiPniiiPPPPeenenneneneeweweeeweweFrEr bbb	9.50977500432
+描述何項因素影響報酬	9.50977500432
+推得實現值因此又	9.50977500432
+投資可以獲得正報酬	9.50977500432
+才對推得實現值	9.50977500432
+忽略資產時分散效果當有	9.50977500432
+市場風險獲得補償並非	9.50977500432
+對推得實現值因此	9.50977500432
+實現值因此又假設	9.50977500432
+如果以 market risk 作為	9.50977500432
+大部位便能獲利	9.50977500432
+多資產分散非系統風險	9.50977500432
+報酬可用因子模型 factor	9.50977500432
+因素影響報酬實證迴	9.50977500432
+因此又假設 portfolio ddiversifie	9.50977500432
+因承擔市場風險獲得補償	9.50977500432
+單一價格法則 low price	9.50977500432
+單一個人只要有足夠大	9.50977500432
+可忽略資產時分散效果	9.50977500432
+可得訊息之下預期報酬為	9.50977500432
+可做為 benchmark portfolio	9.50977500432
+只要有足夠大部位便	9.50977500432
+只有系統風險才對	9.50977500432
+分散效果當有大量 PPiiiPiniiiPPniiiPniiiPPPPeenenneneneeweweeeweweFrEr	9.50977500432
+像圖中 portfolio A	9.50977500432
+值因此又假設 portfolio	9.50977500432
+便會剛好等於用	9.50977500432
+來描述何項因素影響	9.50977500432
+作為 factor risk 那麼 market	9.50977500432
+何項因素影響報酬實證	9.50977500432
+低價者價升高價者價跌直到	9.50977500432
+但非系統風險則不會會	9.50977500432
+以上述觀點這條線也	9.50977500432
+以 market risk 作為 factor	9.50977500432
+人只要有足夠大部位	9.50977500432
+並非因承擔別公司風險	9.50977500432
+不需投資可以獲得正	9.50977500432
+不會會被補貼而言	9.50977500432
+不會剛好等於用	9.50977500432
+上述觀點這條線也可表達成	9.50977500432
+where 可忽略資產時分散	9.50977500432
+when ighted equally ifed uncorrelat	9.50977500432
+variancePortfolio where 可忽略資產時	9.50977500432
+variance variancePortfolio where 可忽略	9.50977500432
+use more than factor addition	9.50977500432
+uncorrelat j assuming variance variancePortfolio	9.50977500432
+they must equal expected return	9.50977500432
+than factor addition market return	9.50977500432
+stephen ross 提出三個前提	9.50977500432
+sol 1.2 1.2 1.2 11.2	9.50977500432
+risk 作為 factor risk 那麼	9.50977500432
+risk free 因為 factor risk	9.50977500432
+return security come two source	9.50977500432
+rB E rB bB F	9.50977500432
+price two asset equivalent they	9.50977500432
+predicted how will revise your	9.50977500432
+portfolio 皆可做為	9.50977500432
+portfolio bC 0.5 E rC	9.50977500432
+more than factor addition market	9.50977500432
+market risk 作為 factor risk	9.50977500432
+low price two asset equivalent	9.50977500432
+long D comprised risk free	9.50977500432
+large position secure large level	9.50977500432
+j assuming variance variancePortfolio where	9.50977500432
+instead predicted how will revise	9.50977500432
+in efficient market profitable arbitrage	9.50977500432
+ighted equally ifed uncorrelat j	9.50977500432
+ifed uncorrelat j assuming variance	9.50977500432
+free 因為 factor risk 相消	9.50977500432
+estimate stock expected rate return	9.50977500432
+equally ifed uncorrelat j assuming	9.50977500432
+deviation common factor it zero	9.50977500432
+create large position secure large	9.50977500432
+comprised risk free asset A	9.50977500432
+but E rA E rB	9.50977500432
+bB but E rA E	9.50977500432
+assuming variance variancePortfolio where 可	9.50977500432
+actual expected return G there	9.50977500432
+actual expected return E there	9.50977500432
+IR 未預期改變則報	9.50977500432
+F rB E rB bB	9.50977500432
+F could positive negative zero	9.50977500432
+E P2FrEreeePPPPPb 主題七重要	9.50977500432
+D comprised risk free asset	9.50977500432
+0.5 F	9.50977500432
+market risk premium	8.0
+since investment required investor	7.9248125036
+should same market price	7.9248125036
+opportunity will quickly disappear	7.9248125036
+opportunity small change holding	7.9248125036
+holding only few investor	7.9248125036
+using multiple regression	6.33985000288
+sell short B	6.33985000288
+eP approach zero	6.33985000288
+assumption market portfolio	6.33985000288
+從哪來	4.75488750216
+rf bRPM	4.75488750216
+portfolio D	4.75488750216
+idiosyncratic risk	4.75488750216
+buy A	4.75488750216
+arbitrage profit	4.75488750216
+衡出現	3.16992500144
+獲補償	3.16992500144
+expected value	3.0
+授課老師索樂晴博士	0.0
+投資學	0.0
+1.0	0.0

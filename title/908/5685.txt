@@ -2,22 +2,22 @@ Outline
 Ethernet
 Ethernet: Unreliable Connectionless
 Bus Topology
-Ethernet 10Base5
+Ethernet (10Base5)
 Network Configuration Example 1
-Cable Signaling Manchester Encoding
+Cable Signaling (Manchester Encoding)
 Network Configuration Example 2
 Network Configuration Example 3
-Ethernet 10Base2
-Ethernet 10BaseT
+Ethernet (10Base2)
+Ethernet (10BaseT)
 Star Topology
 Ethernet-Switch
 Ethernet Switch ASIC example
 Ethernet Frame Format
 Ethernet Addresses
 Ethernet MAC protocol
-CSMA Carrier Sense Multiple Access
+CSMA (Carrier Sense Multiple Access)
 CSMA collisions
-CSMA/CD Collision Detection
+CSMA/CD (Collision Detection)
 CSMA/CD collision detection
 CSMA/CD
 Collision Window

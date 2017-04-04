@@ -1,0 +1,154 @@
+VLAN	537.0
+bridge/switch	90.0
+access link	54.0
+tagged	48.0
+member set	40.5
+blue	33.0
+based virtual LANs	30.0
+PVID	30.0
+frame but they must different	27.0
+140.114 xx	27.0
+set port IDs	24.0
+SNAP	24.0
+untag set	22.5
+trunk link	22.5
+hybrid link	22.5
+rule	20.0
+tagging	18.0
+red port	18.0
+port MAP	18.0
+link LAN segment used multiplex	18.0
+filtering entry	18.0
+explicit	18.0
+all frame	18.0
+VAB	18.0
+group	16.0
+SVL	15.0
+MAC port	15.0
+A B B A	15.0
+unaware device	13.5
+control element	13.5
+the filtering database	12.0
+layer protocol based	12.0
+connector	12.0
+canonical format indicator	12.0
+broadcast multicast frame	12.0
+bandwidth wasting issue	12.0
+TPID	12.0
+TCI	12.0
+IEEE 802.1 Q	12.0
+802.1 D BLAN	12.0
+where received frame should forwarded	9.0
+user priority	9.0
+transmission IP datagrams over IEEE	9.0
+then frame A B B	9.0
+the procedure tag frame modify	9.0
+supported over shared point point	9.0
+some special case need specify	9.0
+sent IEEE network encapsulated within	9.0
+security issue	9.0
+routing path any pair node	9.0
+request/response protocol request	9.0
+provide routing path any pair	9.0
+propagation multicast	9.0
+over shared point point medium	9.0
+over IEEE network in other	9.0
+otherwise MAC A B will	9.0
+mapping frame output port format	9.0
+link layer 802.3 802.4 802.5	9.0
+link frame	9.0
+individual MAC	9.0
+frame shall filtered outgoing port	9.0
+frame including end station frame	9.0
+each frame received classified belonging	9.0
+did turn spanning tree algorithm	9.0
+declaration protocol	9.0
+datagrams over IEEE network in	9.0
+datagrams could sent IEEE network	9.0
+data link layer 802.3 802.4	9.0
+could sent IEEE network encapsulated	9.0
+can attached other 802.1 D	9.0
+but some special case need	9.0
+attached other 802.1 D conforment	9.0
+MACb	9.0
+MACa	9.0
+MAC A B will learned	9.0
+IP datagrams over IEEE network	9.0
+IP datagrams could sent IEEE	9.0
+IEEE network in other word	9.0
+B will learned different port	9.0
+A B will learned different	9.0
+MAC addr port	8.0
+viewed being edge network	7.5
+various possibility exist achieving	7.5
+the classification achieved follows	7.5
+req/resp protocol	7.5
+protocol procedure required provide	7.5
+management service operation required	7.5
+frame MAC address layer	7.5
+entirely separate each other	7.5
+allowed the communication should	7.5
+GVRP registrar administrative control	7.5
+A frame classified particular	7.5
+A B C D	7.5
+will forwarded port	6.0
+time S	6.0
+three type link	6.0
+three phase model	6.0
+port Y	6.0
+port X	6.0
+physical network layer	6.0
+for B A	6.0
+distribution/resolution	6.0
+based level model	6.0
+according dynamic FD	6.0
+MACc	6.0
+B Y	6.0
+wrong way	4.5
+tag type	4.5
+receiving port	4.5
+incorrect path	4.5
+frame relay	4.5
+forward filter	4.5
+first place	4.5
+directed router	4.5
+added dynamically	4.5
+NOT shared	4.5
+N byte	4.5
+G H	4.5
+E F	4.5
+C data	4.5
+A X	4.5
+alternatively	3.0
+PT	3.0
+MIBs	3.0
+MACe	3.0
+MACd	3.0
+transmitted any form any mean	0.0
+system transmitted any form any	0.0
+summary	0.0
+right reserved no part publication	0.0
+retrieval system transmitted any form	0.0
+reserved no part publication file	0.0
+recording otherwise without prior written	0.0
+publication file may reproduced stored	0.0
+professor nen fu huang E	0.0
+photocopying recording otherwise without prior	0.0
+permission professor nen fu huang	0.0
+part publication file may reproduced	0.0
+outline	0.0
+no part publication file may	0.0
+nfhuang c nthu edu tw	0.0
+nen fu huang E mail	0.0
+mechanical photocopying recording otherwise without	0.0
+mail nfhuang c nthu edu	0.0
+introduction	0.0
+huang E mail nfhuang c	0.0
+fu huang E mail nfhuang	0.0
+computer network	0.0
+any form any mean electronic	0.0
+all right reserved no part	0.0
+SA	0.0
+FCS	0.0
+E mail nfhuang c nthu	0.0
+DA	0.0

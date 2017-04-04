@@ -1,0 +1,21 @@
+債券評價
+年化報酬率
+Bond Characteristics
+Provisions of Bonds
+Bond Pricing
+2
+Bond Prices and Yields
+Prices and Coupon Rates
+Market rate
+Yield to Maturity 到期殖利率
+IRR
+Yield Measures
+Realized Yield versus YTM
+Holding-Period Return: Single Period
+Duration(存續期間)
+計算
+Duration/Price Relationship
+Rules for Duration
+Accrued interest and quoted bond prices
+Default Risk and Ratings
+Factors Used by Rating Companies

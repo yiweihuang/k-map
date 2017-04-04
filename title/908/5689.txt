@@ -3,5 +3,4 @@ Reliable Transmission
 Stop and Wait Protocol
 Sliding Window Protocol
 Issues with Sliding Window Protocol
-
 Summary

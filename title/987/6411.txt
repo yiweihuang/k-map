@@ -1,0 +1,35 @@
+衍生性金融商品
+Derivatives 衍生性商品
+How Derivatives are Used
+Futures and Forward Contracts
+Payoff from a long position
+Payoff from a short position
+Options
+Review of Option Types
+Option Positions
+Payoff and Profit from buying a Call
+Payoff and Profit from selling a Call
+Payoff and Profit from buying a Put
+Payoff and Profit from selling a Put
+Convergence of Futures to Spot
+Margin 保證金交易
+Terminology
+Example of a Futures Trade
+Key Points About Futures
+Payoffs from Option
+Payoff and Profits at Expiration - Calls
+Payoff and Profits at Expiration - Puts
+Effect of Variables on Option Pricing
+Put-Call Parity: No Dividends
+Strategies to be Considered
+Principal protected Note 保本型債券
+
+Writing a Covered Call
+Protective Put
+A Simple Binomial Model
+A Call Option
+A Riskless Portfolio
+Valuing the Riskless Portfolio
+Valuing the Call Option
+Black-Scholes Formula
+The N(x) Function

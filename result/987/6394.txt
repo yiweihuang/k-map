@@ -1,0 +1,199 @@
+單元資本配置	76.0782000346
+四投資組合管理 I	66.5684250303
+主題四投資組合管理	66.5684250303
+單元通貨膨脹率報酬風險	57.0586500261
+單元投資組合管理概述	57.0586500261
+risky risk free asset	39.624062518
+單元風險趨避	38.0391000174
+capital allocation line	38.0391000174
+allocating capital risky risk free	38.0391000174
+資產效用	33.2842125152
+E rp	33.0
+CAL risk preference	31.6992500144
+0.22	31.6992500144
+E rc	23.7744375108
+utility	22.0
+risk aversion	21.3969937597
+rp rf	21.0
+expected return	19.5
+borrowing rate	19.0195500087
+0.36	15.8496250072
+0.0976	15.8496250072
+0.0675	15.8496250072
+0.02	15.8496250072
+indifference curve	14.2646625065
+U E	14.2646625065
+0.13/	14.2646625065
+0.09/	14.2646625065
+0.07/	14.2646625065
+/3.5	14.2646625065
+slope	14.0
+standard deviation	13.5
+combined	12.6797000058
+0.45	12.6797000058
+最適投資於	12.6797000058
+reward variability ratio	12.6797000058
+dominates higher return	12.6797000058
+certainty equivalent rate	12.6797000058
+rule	12.0
+W2	12.0
+W1	12.0
+0.25	11.0
+supply	9.50977500433
+srf	9.50977500433
+s2	9.50977500433
+demand	9.50977500433
+9.02	9.50977500433
+10.28	9.50977500433
+高要求報酬也愈	9.50977500432
+高於 risk free rate	9.50977500432
+高多增加減少一單	9.50977500432
+高報酬願意犧牲更	9.50977500432
+風險愈高要求報酬	9.50977500432
+願意犧牲更多報酬	9.50977500432
+較高報酬願意犧牲	9.50977500432
+趨避程度高多增加	9.50977500432
+變化百分比以表示例如	9.50977500432
+要求較高報酬願意	9.50977500432
+要求報酬也愈高	9.50977500432
+表示例如表示購買力每年	9.50977500432
+組合商品勞務平均價格	9.50977500432
+程度高多增加減少	9.50977500432
+相當於多少確定值帶來	9.50977500432
+百分比以表示例如表示	9.50977500432
+為函數截距為斜率	9.50977500432
+消費組合商品勞務平均	9.50977500432
+於投資策略選取影響	9.50977500432
+愈高要求報酬也	9.50977500432
+對於投資策略選取	9.50977500432
+多增加減少一單位風險	9.50977500432
+報酬願意犧牲更多	9.50977500432
+商品勞務平均價格衡量	9.50977500432
+口之家消費組合商品勞務	9.50977500432
+原本 budget 額外借全投	9.50977500432
+勞務平均價格衡量購買力	9.50977500432
+函數截距為斜率為	9.50977500432
+例如表示購買力每年下降	9.50977500432
+以表示例如表示購買力	9.50977500432
+主觀 U A 客觀 E	9.50977500432
+不會借錢人不受	9.50977500432
+willingness trade off return risk	9.50977500432
+willingness accept high level risk	9.50977500432
+variance asset return expected value	9.50977500432
+trade off between risk return	9.50977500432
+the variance asset return expected	9.50977500432
+the trade off between risk	9.50977500432
+the return asset probability weighted	9.50977500432
+the rate return portfolio weighted	9.50977500432
+split investment fund between safe	9.50977500432
+ryyUy E E rtsAE rUssss	9.50977500432
+risk premium E ri rf	9.50977500432
+ri 0.6/0.4/	9.50977500432
+return would result leveraged combination	9.50977500432
+return each asset comprising portfolio	9.50977500432
+return asset probability weighted average	9.50977500432
+represent investor willingness trade off	9.50977500432
+rate 高於 risk free	9.50977500432
+rate return portfolio weighted average	9.50977500432
+rate return each asset comprising	9.50977500432
+rate real rate inflation premium	9.50977500432
+rE ryyUy E E rtsAE	9.50977500432
+possible split investment fund between	9.50977500432
+portfolio weight w1 w2 respectively	9.50977500432
+portfolio portfolio weight w1 w2	9.50977500432
+p 0.4	9.50977500432
+nominal rate real rate inflation	9.50977500432
+max22222ypfppcfpfcccA rE ryyUy E E	9.50977500432
+lending rate	9.50977500432
+it possible split investment fund	9.50977500432
+investor willingness trade off return	9.50977500432
+investment opportunity set possible combination	9.50977500432
+into portfolio portfolio weight w1	9.50977500432
+interest rate move closely together	9.50977500432
+inflation interest rate move closely	9.50977500432
+high level risk high level	9.50977500432
+fisher effect	9.50977500432
+examine risk/return tradeoff	9.50977500432
+equivalent rate 高於 risk	9.50977500432
+deviation multiplied portfolio proportion invested	9.50977500432
+demonstrate how different degree risk	9.50977500432
+budget 額外借全投於	9.50977500432
+accept high level risk high	9.50977500432
+U ln W W 0.5	9.50977500432
+E ri 0.6/0.4	9.50977500432
+CPI 變化百分比以表示	9.50977500432
+A 時 E 11.4 12.1	9.50977500432
+5.0 max22222ypfppcfpfcccA rE ryyUy E	9.50977500432
+0.5 a	9.50977500432
+0.05 0.52	9.50977500432
+state	9.0
+proportion fund security	8.0
+越向西北邊越好	7.9248125036
+s rrCovrrrErrErsPrrCovs portfolio management	7.9248125036
+risk free T bill	7.9248125036
+lend rf borrow rf	7.9248125036
+CPI consumer price index	7.9248125036
+1.1 1.5 0.5 借	7.9248125036
+1.1 1.13 0.13 借	7.9248125036
+/A/B	7.9248125036
+選 A 1.1	6.33985000288
+主要問題找	6.33985000288
+risk uncertain outcome	6.33985000288
+risk free F	6.33985000288
+potential investment portfolio	6.33985000288
+investor view risk	6.33985000288
+good	6.33985000288
+federal reserve action	6.33985000288
+factor influencing rate	6.33985000288
+excellent	6.33985000288
+dominates lower risk	6.33985000288
+crash	6.33985000288
+combination without leverage	6.33985000288
+E 0.13 0.20	6.33985000288
+E 0.07 0.05	6.33985000288
+A 成反比 A	6.33985000288
+2.83/1.06	6.33985000288
+0.5200	6.33985000288
+0.4 1.4 18.2	6.33985000288
+0.3100	6.33985000288
+0.1400	6.33985000288
+cov r1r2	6.0
+風險愛好者	4.75488750216
+stock E	4.75488750216
+security selection	4.75488750216
+risk neutral	4.75488750216
+risk lover	4.75488750216
+risk averse	4.75488750216
+return scenario	4.75488750216
+investor risk	4.75488750216
+foreign asset	4.75488750216
+empirical relationship	4.75488750216
+dominance principle	4.75488750216
+bond D	4.75488750216
+R/	4.75488750216
+Q0 Q1	4.75488750216
+A 1.65	4.75488750216
+1.4 30.8	4.75488750216
+1.4 1.4	4.75488750216
+風險量	3.16992500144
+無關	3.16992500144
+poor	3.16992500144
+household	3.16992500144
+III	3.16992500144
+0.339	3.16992500144
+0.300	3.16992500144
+0.0800	3.16992500144
+0.0638	3.16992500144
+security security	3.0
+risk seeking	3.0
+R R	3.0
+r0	2.0
+now	2.0
+issue	2.0
+business	2.0
+IV	2.0
+2.0	1.58496250072
+where	1.0
+0.00	1.0
+授課老師索樂晴博士	0.0
+投資學	0.0

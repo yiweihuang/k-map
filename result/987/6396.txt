@@ -1,0 +1,196 @@
+單元資本資產定價模型 CAPM	114.117300052
+單元證券市場線	76.0782000346
+主題六重要投資理論 I	66.5684250303
+SML	58.0
+證券市場線與資本市場線	57.0586500261
+與資本市場線 CML 比較	57.0586500261
+場線與資本市場線 CML	57.0586500261
+單元指數模型 index model	57.0586500261
+E rm rf	38.0391000174
+resulting equilibrium condition	31.6992500144
+market risk premium	28.0
+market portfolio	24.0
+risk free borrowing lending	23.7744375108
+expected return beta relationship	23.7744375108
+cov cov	23.7744375108
+reward risk ratio	19.0195500087
+成立對投資組合也	19.0195500086
+對投資組合也成立	19.0195500086
+對個別資產成立對投資	19.0195500086
+別資產成立對投資組合	19.0195500086
+slope	18.0
+E rM	18.0
+what risk premium portfolio	15.8496250072
+transaction cost liquidity premium	15.8496250072
+risk premium individual security	15.8496250072
+investor will disagree about	15.8496250072
+GE	15.8496250072
+market line	14.2646625065
+E r0	14.2646625065
+1.25	14.0
+相同	12.6797000058
+risk systematic risk	12.6797000058
+ri rm/	12.6797000058
+return fair expected	12.6797000058
+unobserved	9.50977500433
+intercept	9.50977500433
+graph	9.50977500433
+contribution	9.50977500433
+alpha	9.50977500433
+高交易成本低資產所以	9.50977500432
+風險趨避程度其餘皆	9.50977500432
+風險性資產加總即為市場	9.50977500432
+除了財富風險趨避程度	9.50977500432
+趨避程度其餘皆一模	9.50977500432
+資產變現成本容易程度	9.50977500432
+資產本身對於市場	9.50977500432
+資產本身報酬市場報酬	9.50977500432
+資產報酬流通性有關屬於系	9.50977500432
+資產加總即為市場投資	9.50977500432
+財富風險趨避程度其餘	9.50977500432
+財富就是所有風險性資產	9.50977500432
+變現成本容易程度資產	9.50977500432
+證券對於經濟表示	9.50977500432
+該資產本身對於	9.50977500432
+觀點對未來現金流量	9.50977500432
+要求報酬率較高	9.50977500432
+若 IRR 內部報酬率	9.50977500432
+總風險性資產加總即為	9.50977500432
+經濟體財富就是所有風險性	9.50977500432
+程度資產報酬流通性有關	9.50977500432
+程度其餘皆一模一樣	9.50977500432
+稅會影響投資種類交易	9.50977500432
+短視近利 single period investment	9.50977500432
+相消所以整個經濟體財富	9.50977500432
+率 18.4 則可接受投資	9.50977500432
+為不足以影響價格完全	9.50977500432
+流動性高交易成本低資產	9.50977500432
+本身對於市場風險	9.50977500432
+本身報酬市場報酬共變	9.50977500432
+未來資產價格變化預期也	9.50977500432
+未來現金流量機率分配	9.50977500432
+方式分析證券對於	9.50977500432
+整個經濟體財富就是所有	9.50977500432
+投資種類交易稅資	9.50977500432
+投資人行為不足以影響	9.50977500432
+投資人只有 risky asset 形成	9.50977500432
+所有投資人只有 risky asset	9.50977500432
+所以整個經濟體財富就是	9.50977500432
+成本容易程度資產報酬	9.50977500432
+影響投資種類交易稅	9.50977500432
+影響價格完全競爭市場	9.50977500432
+市場報酬共變異關係	9.50977500432
+對未來資產價格變化預期	9.50977500432
+對未來現金流量機率	9.50977500432
+對於市場風險貢獻度	9.50977500432
+容易程度資產報酬流通性	9.50977500432
+報酬率 18.4 則可接受	9.50977500432
+報酬市場報酬共變異關	9.50977500432
+呈現資產本身報酬市場	9.50977500432
+只有 risky asset 形成投資	9.50977500432
+即資訊不對稱	9.50977500432
+加總風險性資產加總即	9.50977500432
+分析證券對於經濟	9.50977500432
+內部報酬率 18.4 則可	9.50977500432
+偏好流動性高交易成本低	9.50977500432
+低資產所以低流動性資產	9.50977500432
+代表該資產本身對	9.50977500432
+人行為不足以影響價格	9.50977500432
+人們偏好流動性高交易成本	9.50977500432
+交易成本低資產所以低流動性	9.50977500432
+不足以影響價格完全競爭	9.50977500432
+不能投資 non traded asset	9.50977500432
+without equal risk free borrowing	9.50977500432
+will hold same portfolio risky	9.50977500432
+value price per share number	9.50977500432
+used determine	9.50977500432
+unique risk firm specific risk	9.50977500432
+under priced offering too high	9.50977500432
+too high rate return it	9.50977500432
+the observed index serf proxy	9.50977500432
+security must created such portfolio	9.50977500432
+sample calculation	9.50977500432
+ry 0.03 0.6 0.08 0.078	9.50977500432
+risky security must created such	9.50977500432
+risk firm specific risk nonsystematic	9.50977500432
+return stock observable market index	9.50977500432
+return required rate return fair	9.50977500432
+regression model specifying relationship between	9.50977500432
+realized return stock observable market	9.50977500432
+proportion each security it market	9.50977500432
+priced offering too high rate	9.50977500432
+price per share number share	9.50977500432
+offering too high rate return	9.50977500432
+observed index serf proxy market	9.50977500432
+myopic 短視近利 single period	9.50977500432
+model us observed realized return	9.50977500432
+model provides way estimate asset	9.50977500432
+market value price per share	9.50977500432
+investor 即資訊不對	9.50977500432
+investor will hold same portfolio	9.50977500432
+investor rational mean variance optimizers	9.50977500432
+investment limited traded financial asset	9.50977500432
+fMffMPfPrrErrErrErrE1 cov MMMMMrr security market	9.50977500432
+each security it market value	9.50977500432
+covariance return asset make up	9.50977500432
+average risk aversion market participant	9.50977500432
+all offer same reward risk	9.50977500432
+all investor will hold same	9.50977500432
+MMM fMffMPfPrrErrErrErrE1 cov MMMMMrr security	9.50977500432
+IRR 內部報酬率 18.4	9.50977500432
+GN ford	9.50977500432
+E ry 0.03 0.6 0.08	9.50977500432
+A regression model specifying relationship	9.50977500432
+18.4 則可接受投資計畫	9.50977500432
+0.03 0.6 0.08 0.078 7.8	9.50977500432
+所以沒稅交易成本傭金	7.9248125036
+risk premium market depends	7.9248125036
+return underpriced buy more	7.9248125036
+researcher credited it development	7.9248125036
+proportion explained market index	7.9248125036
+percentage total market value	7.9248125036
+markowitz sharpe lintner mossin	7.9248125036
+function it covariance market	7.9248125036
+derived using principle diversification	7.9248125036
+統風險應給予補貼	6.33985000288
+use standard deviation	6.33985000288
+there homogeneous expectation	6.33985000288
+modern financial theory	6.33985000288
+market price risk	6.33985000288
+investor price taker	6.33985000288
+information costless available	6.33985000288
+appropriate	6.33985000288
+25.11 fordgn question	6.33985000288
+1.3 1.3 18.4	6.33985000288
+0.25 8.8 0.75	6.33985000288
+M 1.0	6.0
+simplified assumption	4.75488750216
+riskless	4.75488750216
+rf 0.03	4.75488750216
+relaxing assumption	4.75488750216
+nontraded asset	4.75488750216
+measure risk	4.75488750216
+capital budgeting	4.75488750216
+benchmark return	4.75488750216
+R square	4.75488750216
+2.2 7.5	4.75488750216
+two source uncertainty	4.0
+或是	3.16992500144
+multiperiod	3.16992500144
+miiifmktiifiRRRR	3.16992500144
+horizon	3.16992500144
+estimated	3.16992500144
+definition	3.16992500144
+application	3.16992500144
+9.7	3.16992500144
+st deviation	3.0
+level risk	2.37744375108
+risk free rate	2.0
+frontier	2.0
+說明	1.58496250072
+free asset	1.5
+授課老師索樂晴博士	0.0
+投資學	0.0
+outstanding	0.0
+B	0.0
+0.5	0.0
