@@ -2,7 +2,7 @@
 Factors Influencing Rates
 Level of Interest Rates
 CPI and Inflation
-Real vs Nominal Rates
+Real vs. Nominal Rates
 Expected Return and Standard Deviation
 Variance and Standard Deviation
 Risk - Uncertain Outcomes

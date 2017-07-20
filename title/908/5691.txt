@@ -8,6 +8,7 @@ TCP Segment
 TCP Header
 TCP Connection Management
 Connection Establishment in TCP
+TCP Connection Management (cont.)
 TCP Connection Management (cont)
 Timeout value for Retransmission
 Karn/Partridge Algorithm

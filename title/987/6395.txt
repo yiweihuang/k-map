@@ -13,9 +13,9 @@ Portfolios with Different Correlations
 Risk-return tradeoff curve
 Correlation Effects
 Minimum-Variance Combination
-Minimum-Variance Combination:   2
+Minimum-Variance Combination:   .2
 Risk and Return: Minimum Variance
-Minimum - Variance Combination:   -3
+Minimum - Variance Combination:   -.3
 The Opportunity Set of the Debt and Equity Funds
 The Opportunity Set of the Debt and Equity Funds with the
 Optimal Risky Portfolio

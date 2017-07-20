@@ -19,6 +19,6 @@ Price Earnings Ratios 本益比
 P/E Ratio with Constant Growth
 P/E Ratio: No Expected Growth
 Implications of P/E Ratio
-P/E vs stock risk
+P/E vs. stock risk
 Pitfalls in P/E Analysis
 Other Valuation Ratios

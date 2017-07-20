@@ -26,5 +26,5 @@ Exponential Backoff Algorithm
 CSMA/CD Protocol
 CSMA/CD Collision Handling
 Ethernet Performance
-8023 Ethernet Standards: Link  Physical Layers
+802.3 Ethernet Standards: Link  Physical Layers
 Summary

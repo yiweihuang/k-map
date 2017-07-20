@@ -23,7 +23,6 @@ Effect of Variables on Option Pricing
 Put-Call Parity: No Dividends
 Strategies to be Considered
 Principal protected Note 保本型債券
-
 Writing a Covered Call
 Protective Put
 A Simple Binomial Model
