@@ -33,6 +33,8 @@ Spanning Tree Algorithm Example (Continued)
 Spanning Tree Features
 The Spanning Tree is Predictable
 Spanning Tree Maintenance
+Spanning Tree Maintenance Example 1 (Bridge Faults)
+Spanning Tree Maintenance Example 2 (LAN Faults)
 Final Configuration of  Example 1
 Final Configuration of Example 2
 In Summary

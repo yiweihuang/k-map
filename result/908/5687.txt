@@ -31,7 +31,7 @@ final configuration example	12.0
 SMAC	12.0
 will forwarded LAN any more	9.0
 user data	9.0
-use destination MAC address DMAC	9.0
+destination MAC address DMAC	9.0
 then they will try serve	9.0
 the routing decision may always	9.0
 so they will change their	9.0
@@ -74,7 +74,7 @@ forward frame LAN	6.0
 address port time	6.0
 X reset timer	6.0
 USER	6.0
-C2 multicast address	6.0
+multicast address	6.0
 preamble SFD DA SA	5.0
 will lost	4.5
 wa gone	4.5
